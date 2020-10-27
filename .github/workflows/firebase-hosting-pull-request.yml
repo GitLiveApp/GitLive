@@ -7,20 +7,12 @@ jobs:
   build_and_preview:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v2
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.44.0
-        with:
-          ruby-version: 2.6
-      - name: Install Dependencies
-        run: bundle install
-      - name: Build
-        run: bundle exec jekyll build
+      - uses: actions/checkout@v2
+      - run: npm ci && npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TEAMHUB_DEV }}'
-          projectId: teamhub-dev
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TEAMHUB_APP }}'
+          projectId: teamhub-app
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
