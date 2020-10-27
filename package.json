@@ -1,0 +1,30 @@
+{
+  "name": "Docs",
+  "version": "1.0.0",
+  "description": "Docs Jekyll theme.",
+  "main": "index.js",
+  "scripts": {
+    "build": "jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {
+    "simple-jekyll-search": "^1.7.2",
+    "system-font-css": "^2.0.1",
+    "uikit": "^3.0.3"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2",
+    "ncp": "latest",
+    "uglify-js": "^3.4.10",
+    "watch": "^1.0.2"
+  }
+}

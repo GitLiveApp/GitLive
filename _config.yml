@@ -1,0 +1,178 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site title and description
+title:              GitLive
+description:        GitLive documentation
+lang:               en
+
+# Site subpath, e.g. /blog
+baseurl:            ""
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url:                "https://teamhub-docs.firebaseapp.com"
+
+# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
+logo: icon-gitlive.png
+
+navbar:
+    sticky:         true
+    search:         true
+
+# Default author settings
+# author:
+#     name:           Pete Seth
+#     title:          Lead Developer
+#     avatar:         avatar-tom.png
+
+# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
+authors:
+    john:
+      name:         John Brown
+      title:        Support
+      avatar:       avatar-john.png
+    evan:
+      name:         Evan Wells
+      title:        Support
+      avatar:       avatar-evan.png
+    sara:
+      name:         Sara Galen
+      title:        Lead Developer
+      avatar:       avatar-sara.png
+    alex:
+      name:         Alex Koch
+      title:        Design Engineer
+      avatar:       avatar-alex.png
+    daniel:
+      name:         Daniel Shultz
+      title:        Developer
+      avatar:       avatar-daniel.png
+    tom:
+      name:         Tom Farrell
+      title:        Developer
+      avatar:       avatar-tom.png
+    nicktheman:
+      name:         Nicholas Bransby
+      title:        Co-Founder
+      avatar:       avatar-nicktheman.jpeg
+    friedrich:
+      name:         Friedrich Coen
+      title:        Co-Founder
+      avatar:       avatar-friedrich.png
+    andrew:
+      name:         Andrew Reed
+      title:        Lead Developer
+      avatar:       avatar-andrew.jpeg
+    michael:
+      name:         Michael Richardson
+      title:        Developer
+      avatar:       avatar-michael.jpeg
+    sunny:
+      name:         Sunny Dasgupta
+      title:        Developer
+      avatar:       avatar-sunny.jpeg
+    matt:
+      name:         Matthew Chen
+      title:        Developer
+      avatar:       https://drive.google.com/uc?export=view&id=1yZaHktz1BGDOVPmI83UblKaEA8IvlL1B
+
+# Social icons displayed in footer
+social:
+    email:
+    website:        https://git.live/
+    facebook:       https://www.facebook.com/GitLive-108169967642501
+    flickr:
+    dribbble:
+    github:
+    googleplus:
+    instagram:
+    linkedin:       https://www.linkedin.com/company/gitlive/
+    pinterest:
+    twitter:        https://twitter.com/git_live
+    vimeo:
+    youtube:
+
+# Share button
+share:
+    post:           false # Display share buttons on a post page
+    doc:            true # Display share buttons on a doc page
+    twitter:        false # Enable by adding Twitter handle
+    facebook:       false # Enable by setting true (Facebook handle not required)
+
+# Default footer image settings
+footer:
+    copyright:      Copyright &copy 2020 GitLive All rights reserved.
+
+# Disqus comments shortname, requires Disqus account https://disqus.com/
+disqus:
+    shortname:      # 1234
+
+# Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:
+
+# Number of posts displayed on blog page
+paginate:           10
+
+# Blog path
+paginate_path:      "/blog/:num/"
+
+# Path to post content assets directory i.e post images, pdfs etc
+uploads:            /uploads/
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style:            compressed
+
+collections:
+  docs:
+    output:         true
+  faqs:
+    output:         false
+  changelogs:
+    output:         false
+  sections:
+    order:
+      - admin-vscode.md
+      - admin-jetbrain.md
+      - admin-android-studio.md
+      - installation-vscode.md
+      - installation-jetbrain.md
+      - installation-android-studio.md
+      - teammember-vscode.md
+      - teammember-jetbrain.md
+      - teammember-android-studio.md
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path:         ""
+      type:         posts
+    values:
+      layout:       post
+  # _docs
+  - scope:
+      path:         ""
+      type:         docs
+    values:
+      layout:       doc

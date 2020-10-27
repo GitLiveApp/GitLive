@@ -1,0 +1,185 @@
+---
+layout: default
+---
+<div class="uk-section">
+    <div class="uk-container">
+        <div class="uk-grid-large" data-uk-grid>
+
+            <div class="sidebar-fixed-width uk-visible@m">
+                <div class="sidebar-docs uk-position-fixed uk-margin-top">
+                    {% for section in site.data.navigation_docs %}
+                    <h5>{{ section.title }}</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    {% for doc in section.docs %}
+                      {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
+                      {% assign p = site.docs | where:"url", doc_url | first %}
+                      <li id="{{ p.styleid }}" class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+                    {% endfor %}
+                    </ul>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="uk-width-1-1 uk-width-expand@m">
+
+                <article class="uk-article">
+
+                    <h1 class="uk-article-title">{{ page.title | escape }}</h1>
+
+                    {% if page.subtitle %}<p class="uk-text-lead uk-text-muted">{{ page.subtitle }}</p>{% endif %}
+
+                    <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
+                        {% include post-meta.html %}
+                    </div>
+
+                    {% if page.subsection %}
+                        <div class="uk-article-subsection" id="navigation">
+                            <a class="section active" id="vscode">{{ page.subsection[0] }}</a>
+                            <a class="section" id="jetbrain">{{ page.subsection[1] }}</a>
+                            <a class="section" id="androidstudio">{{ page.subsection[2] }}</a>
+                        </div>
+                    {% endif %}
+
+                    {% if page.step == "first" %}
+                        <div class="uk-content" id="tab-sections">
+                                <div class="tab active" id="vscode">
+                                        {{ site.sections[8].content | markdownify }}
+                                </div>
+                                <div class="tab" id="jetbrain">
+                                        {{ site.sections[7].content | markdownify }}
+                                </div>
+                                <div class="tab" id="androidstudio">
+                                        {{ site.sections[6].content | markdownify }}
+                                </div>
+                        </div>
+                    {% elsif page.step == "second" %}
+                        <div class="uk-content" id="tab-sections">
+                                <div class="tab active" id="vscode">
+                                        {{ site.sections[17].content | markdownify }}
+                                </div>
+                                <div class="tab" id="jetbrain">
+                                        {{ site.sections[16].content | markdownify }}
+                                </div>
+                                <div class="tab" id="androidstudio">
+                                        {{ site.sections[15].content | markdownify }}
+                                </div>
+                        </div>
+                    {% elsif page.step == "third" %}
+                        <div class="uk-content" id="tab-sections">
+                                <div class="tab active" id="vscode">
+                                        {{ site.sections[5].content | markdownify }}
+                                </div>
+                                <div class="tab" id="jetbrain">
+                                        {{ site.sections[4].content | markdownify }}
+                                </div>
+                                <div class="tab" id="androidstudio">
+                                        {{ site.sections[3].content | markdownify }}
+                                </div>
+                        </div>
+                     {% elsif page.step == "fourth" %}
+                        <div class="uk-content" id="tab-sections">
+                                <div class="tab active" id="vscode">
+                                        {{ site.sections[2].content | markdownify }}
+                                </div>
+                                <div class="tab" id="jetbrain">
+                                        {{ site.sections[1].content | markdownify }}
+                                </div>
+                                <div class="tab" id="androidstudio">
+                                        {{ site.sections[0].content | markdownify }}
+                        </div>
+                       {% elsif page.step == "fifth" %}
+                        <div class="uk-content" id="tab-sections">
+                                <div class="tab active" id="vscode">
+                                        {{ site.sections[11].content | markdownify }}
+                                </div>
+                                <div class="tab" id="jetbrain">
+                                        {{ site.sections[10].content | markdownify }}
+                                </div>
+                                <div class="tab" id="androidstudio">
+                                        {{ site.sections[9].content | markdownify }}
+                                </div>
+                        </div>
+                        {% elsif page.step == "sixth" %}
+                        <div class="uk-content" id="tab-sections">
+                                <div class="tab active" id="vscode">
+                                        {{ site.sections[20].content | markdownify }}
+                                </div>
+                                <div class="tab" id="jetbrain">
+                                        {{ site.sections[19].content | markdownify }}
+                                </div>
+                                <div class="tab" id="androidstudio">
+                                        {{ site.sections[18].content | markdownify }}
+                                </div>
+                        </div>
+                        {% elsif page.step == "seventh" %}
+                        <div class="uk-content" id="tab-sections">
+                                <div class="tab active" id="vscode">
+                                        {{ site.sections[14].content | markdownify }}
+                                </div>
+                                <div class="tab" id="jetbrain">
+                                        {{ site.sections[13].content | markdownify }}
+                                </div>
+                                <div class="tab" id="androidstudio">
+                                        {{ site.sections[12].content | markdownify }}
+                                </div>
+                        </div>
+                    {% else %}
+                        <div class="article-content link-primary">
+                            {{ content }}
+                            {% if site.share.doc %}
+                                {% include share.html %}
+                            {% endif %}
+                        </div>
+                    {% endif %}
+
+                    <script>
+                        var nav = document.getElementById("navigation");
+                        var sections = nav.getElementsByClassName("section");
+
+                        var ide_tabs = document.getElementById("tab-sections");
+                        var tab = ide_tabs.getElementsByClassName("tab");
+
+                        for (var i = 0; i < sections.length; i++) {
+                            sections[i].addEventListener("click", function() {
+                                var current = nav.getElementsByClassName("active");
+                                var current_page = ide_tabs.getElementsByClassName("active");
+
+                                current[0].className = current[0].className.replace(" active", "");
+                                current_page[0].className = current_page[0].className.replace(" active", "");
+
+                                for (var j = 0; j <tab.length; j++) {
+                                    if (tab[j].id == this.id) {
+                                        tab[j].className += " active";
+                                    }
+                                }
+
+                                this.className += " active";
+                            });
+                        }
+                    </script>
+
+                    {% include hook-post-content-doc.html %}
+
+                    <hr class="uk-margin-medium">
+
+                    {% include paginate-doc.html %}
+
+                    <!-- {% include related-docs.html %} -->
+
+                    {% if site.disqus.shortname %}
+                        {% include disqus_comments.html %}
+                    {% endif %}
+                </article>
+
+                <script>
+                    // Table of contents scroll to
+                    UIkit.scroll('#markdown-toc a', {
+                        duration: 400,
+                        offset: 120
+                    });
+                </script>
+
+            </div>
+
+    </div>
+</div>

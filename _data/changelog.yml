@@ -1,0 +1,58 @@
+# Changelog page source
+
+- title: Upcoming features
+  label: Testing and Development 
+  date: 
+  list:
+  - Making the "watch" feature read and write compatible
+  - Proactive notification of potential merge conflicts with teammates local working copies
+  - Respond to conversations on Slack, JIRA, GitHub and others straight from the IDE
+  - Send code snippets and stacktraces that link back to the original source file even with code from uncommitted changes
+  - Enhanced Visibility by making your highlight working copy the connected issue from Jira, Trello, Asana
+  - Adding option to appear un icognito toward your teammates
+
+- title: Version 2.0
+  label: Pair Programming with GitLive
+  date: Jul 24, 2019
+  list:
+  - Introduction of the "watch" feature
+  - The "watch" is a user frienly way of starting a pair Programming session (currently read only)
+
+- title: Version 1.5
+  label: GitLive releases live diff view
+  date: Oct 21, 2017
+  list:
+  - Compare a teammate’s current version of a file with the latest version that exists on the remote
+
+- title: GitLive 1.2
+  label: GitLive releases its first real time collaboration feature 
+  date: Mar 29, 2019
+  list:
+  - Introducing live file view, seeing a teammates changes as they type 
+  - Seeing change markers that appear in the left gutter of your teammates file
+
+- title: GitLive now available in the JetBrains Plugin Marketplace
+  label: GitLive is now available within 11 IDEs
+  date: Feb 27, 2019
+  list:
+  - IntelliJ IDEA
+  - PhpStorm
+  - WebStorm
+  - PyCharm
+  - RubyMine
+  - AppCode
+  - CLion
+  - GoLand
+  - Rider
+  - MPS
+  - Android Studio
+
+- title: GitLive 1.0
+  label: Visibility without interruption what we refer to as enhanced presence
+  date: Jan 26, 2019
+  list:
+  - Get an overview of your team’s activity over the last 24 hours
+  - Online/Away status of your teammates
+  - Branch presence, seeing which branch your teammates are on
+  - File-level presence, seeing which file they your teammates are working on
+  - Live view of a teammate’s working copy changes since his last local commit

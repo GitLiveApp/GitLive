@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "production": "teamhub-app"
+  },
+  "targets": {
+    "teamhub-dev": {
+      "hosting": {
+        "docs": [
+          "gitlive-docs"
+        ]
+      }
+    },
+  }
+}
