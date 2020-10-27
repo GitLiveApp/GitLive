@@ -7,8 +7,16 @@ jobs:
   build_and_preview:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - run: npm ci && npm run build
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1.44.0
+        with:
+          ruby-version: 2.6
+      - name: Install Dependencies
+        run: bundle install
+      - name: Build
+        run: bundle exec jekyll build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
