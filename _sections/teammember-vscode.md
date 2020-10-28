@@ -12,7 +12,7 @@ In this quick guide you will learn how to authenticate GitLive in VS Code as a t
 
 ### Step 1
 
-* Install the plugin as explained in the [installation section](/docs/installation){:class="internal-link"}.
+* Install the plugin as explained in the [installation section](/){:class="internal-link"}.
 * Open up a clone of your the repository that you want to use GitLive with.
 
 ### Step 2

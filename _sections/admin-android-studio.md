@@ -13,7 +13,7 @@ As an administrator, you are required to install the GitLive app on the organiza
 
 ### Step 1
 
-* Install the plugin as explained in the [installation section](/docs/installation){:class="internal-link"}
+* Install the plugin as explained in the [installation section](/){:class="internal-link"}
 * Open up a clone of the repository that you want to use GitLive with.
 
 ### Step 2

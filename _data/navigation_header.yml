@@ -1,11 +1,8 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Home
-    url: /
-
   - title: Docs
-    url: /docs/installation/
+    url: /
 
 
   # - title: Changelogs
