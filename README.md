@@ -12,60 +12,60 @@ GitLive allows you to view, share and edit code together with your team, live, a
 
 ## Contents
 1. Installation
-   1. [Android Studio](https://github.com/GitLiveApp/documentation/blob/master/_sections/installation-android-studio.md)
-   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/documentation/blob/master/_sections/installation-jetbrain.md)
-   1. [VS Code](https://github.com/GitLiveApp/documentation/blob/master/_sections/installation-vscode.md)
+   1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/installation-android-studio.md)
+   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/installation-jetbrain.md)
+   1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/installation-vscode.md)
 1. Setting up GitLive
    1. As an Admin
-      1. [Android Studio](https://github.com/GitLiveApp/documentation/blob/master/_sections/admin-android-studio.md)
-      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/documentation/blob/master/_sections/admin-jetbrains.md)
-      1. [VS Code](https://github.com/GitLiveApp/documentation/blob/master/_sections/admin-vscode.md)
+      1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/admin-android-studio.md)
+      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/admin-jetbrains.md)
+      1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/admin-vscode.md)
    1. As a Team Member
-      1. [Android Studio](https://github.com/GitLiveApp/documentation/blob/master/_sections/teammember-android-studio.md)
-      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/documentation/blob/master/_sections/teammember-jetbrains.md)
-      1. [VS Code](https://github.com/GitLiveApp/documentation/blob/master/_sections/teammember-vscode.md)
+      1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/teammember-android-studio.md)
+      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/teammember-jetbrains.md)
+      1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/teammember-vscode.md)
 1. Account Management
-      1. [Android Studio](https://github.com/GitLiveApp/documentation/blob/master/_sections/account-management-android-studio.md)
-      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/documentation/blob/master/_sections/account-management-jetbrains.md)
-      1. [VS Code](https://github.com/GitLiveApp/documentation/blob/master/_sections/account-management-vscode.md)
+      1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/account-management-android-studio.md)
+      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/account-management-jetbrains.md)
+      1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/account-management-vscode.md)
 1. Visibility
-   1. [Android Studio](https://github.com/GitLiveApp/documentation/blob/master/_sections/visibility-android-studio.md)
-   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/documentation/blob/master/_sections/visibility-jetbrains.md)
-   1. [VS Code](https://github.com/GitLiveApp/documentation/blob/master/_sections/visibility-vscode.md)
+   1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/visibility-android-studio.md)
+   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/visibility-jetbrains.md)
+   1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/visibility-vscode.md)
    1. Privacy
-      1. [Android Studio](https://github.com/GitLiveApp/documentation/blob/master/_sections/privacy-android-studio.md)
-      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/documentation/blob/master/_sections/privacy-jetbrains.md)
-      1. [VS Code](https://github.com/GitLiveApp/documentation/blob/master/_sections/privacy-vscode.md)
+      1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/privacy-android-studio.md)
+      1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/privacy-jetbrains.md)
+      1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/privacy-vscode.md)
 1. Pair Programming
-   1. [Android Studio](https://github.com/GitLiveApp/documentation/blob/master/_sections/pairprogramming-android-studio.md)
-   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/documentation/blob/master/_sections/pairprogramming-jetbrains.md)
-   1. [VS Code](https://github.com/GitLiveApp/documentation/blob/master/_sections/pairprogramming-vscode.md)
+   1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/pairprogramming-android-studio.md)
+   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/pairprogramming-jetbrains.md)
+   1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/pairprogramming-vscode.md)
 
 <br />
 
 ## Contributing to GitLive
-We're a tool built for developers, by developers. So your contributions are important to us! Please review this section to make the process of contributing as smooth and efficient as possible. 
+We're a tool built for developers, by developers. So your contributions are important to us! Please review this section to make the process of contributing as smooth and efficient as possible.
 
 ### Reporting an Issue
-GitLive uses [Github Issue Tracking](https://github.com/GitLiveApp/gitlive/issues) to track issues (mainly bugs). If you've found a bug, this is the place to start. 
-1. You'll need to create a (free) GitHub account in order to submit an issue. 
+GitLive uses [Github Issue Tracking](https://github.com/GitLiveApp/gitlive/issues) to track issues (mainly bugs). If you've found a bug, this is the place to start.
+1. You'll need to create a (free) GitHub account in order to submit an issue.
 1. Search the current issues to see if the bug has already been reported.
-1. If it hasn't, you can [Open a new Issue](https://github.com/GitLiveApp/gitlive/issues/new). 
-   1. Please include as much information as possible - a title and a clear description at the very least. 
+1. If it hasn't, you can [Open a new Issue](https://github.com/GitLiveApp/gitlive/issues/new).
+   1. Please include as much information as possible - a title and a clear description at the very least.
 
 
 ### Feature Requests
-Feature requests are welcome. But please take a moment to find out whether your idea fits with the scope and aims of the project, and provide as much detail as you can. 
+Feature requests are welcome. But please take a moment to find out whether your idea fits with the scope and aims of the project, and provide as much detail as you can.
 
 ### Improving the Documentation
-If there are any improvements you would like to see to our documentation, you can also use the Github issue tracking system. Our documentation is all open source, so if there are any improvements you would like to make yourself, you can do so via a pull request, which we will then review. 
+If there are any improvements you would like to see to our documentation, you can also use the Github issue tracking system. Our documentation is all open source, so if there are any improvements you would like to make yourself, you can do so via a pull request, which we will then review.
 
 Follow this process if you'd like to make a change to the documentation:
 
 1. Clone the Documentarion Repository:
 
    ```bash
-   # Clone the repo 
+   # Clone the repo
    git clone git@github.com:GitLiveApp/gitlive.git
    # Navigate to the newly cloned directory
    cd gitlive
@@ -109,7 +109,7 @@ Follow this process if you'd like to make a change to the documentation:
 
 ### Serving your Changes Locally
 
-Install the bundler if you don't have it already. 
+Install the bundler if you don't have it already.
 ```bash
 gem install bundler
 ```
