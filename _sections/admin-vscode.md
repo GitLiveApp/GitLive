@@ -13,7 +13,7 @@ As an administrator, you are required to install the GitLive app on the organiza
 
 ### Step 1
 
-* Install the plugin as explained in the [installation section](/docs/installation){:class="internal-link"}.
+* Install the plugin as explained in the [installation section](/){:class="internal-link"}.
 * Open up a clone of your the repository that you want to use GitLive with.
 
 ### Step 2
@@ -39,4 +39,4 @@ As an administrator, you are required to install the GitLive app on the organiza
 * You can now have your team members install the plugin and authenticate. See the  [setting up as a team member section](/docs/teammember){:class="internal-link"}.
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/admin-vscode.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/admin-vscode.md){:class="uk-button uk-button-success"}

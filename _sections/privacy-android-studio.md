@@ -95,4 +95,4 @@ On the left, GitLive shows that  **SuDa2103** has made some changes to the **Sam
 
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/privacy-android-studio.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/privacy-android-studio.md){:class="uk-button uk-button-success"}

@@ -40,7 +40,7 @@ After confirming you want to delete the account, you will see that it has been r
 ![3 Accounts](/uploads/android-studio-3-accounts.jpeg "3 Accounts"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/account-management-android-studio.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/account-management-android-studio.md){:class="uk-button uk-button-success"}
 
 
 

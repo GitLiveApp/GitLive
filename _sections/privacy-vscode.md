@@ -95,4 +95,4 @@ On the left, GitLive shows that  **teamhubuser** has made some changes to the **
 </table>
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/privacy-vscode.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/privacy-vscode.md){:class="uk-button uk-button-success"}

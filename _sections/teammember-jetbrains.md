@@ -13,7 +13,7 @@ In this quick guide you will learn how to authenticate GitLive on any JetBrains 
 
 ### Step 1
 
-* Install the plugin as explained in the [installation section](/docs/installation){:class="internal-link"}
+* Install the plugin as explained in the [installation section](/){:class="internal-link"}
 * Open up a clone of the repository that you want to use GitLive with.
 
 ### Step 2
@@ -29,4 +29,4 @@ In this quick guide you will learn how to authenticate GitLive on any JetBrains 
 ![Confirm installation](/uploads/jetbrains-installed-2.jpg  "Confirm installation"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/teammember-jetbrains.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/teammember-jetbrains.md){:class="uk-button uk-button-success"}

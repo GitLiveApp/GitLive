@@ -47,4 +47,4 @@ In this quick guide you will learn how to install GitLive into the Android Studi
 
 ![Confirm installation](/uploads/android-studio-installed-3.jpeg  "Confirm installation"){:class="screenshot"}
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/installation-android-studio.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/installation-android-studio.md){:class="uk-button uk-button-success"}

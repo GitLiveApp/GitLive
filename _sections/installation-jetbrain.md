@@ -45,5 +45,5 @@ In this quick guide you will learn how to install GitLive into any JetBrains IDE
 
 ![Confirm installation](/uploads/jetbrains-installed-3.jpeg "Confirm installation"){:class="screenshot"}
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/installation-jetbrain.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/installation-jetbrain.md){:class="uk-button uk-button-success"}
 

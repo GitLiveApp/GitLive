@@ -36,6 +36,6 @@ As with all GitLive features, real-time editing works interoperably between supp
 
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/pairprogramming-jetbrains.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/pairprogramming-jetbrains.md){:class="uk-button uk-button-success"}
 
 
