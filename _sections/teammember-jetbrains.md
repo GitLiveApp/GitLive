@@ -29,4 +29,4 @@ In this quick guide you will learn how to authenticate GitLive on any JetBrains 
 ![Confirm installation](/uploads/jetbrains-installed-2.jpg  "Confirm installation"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/teammember-jetbrains.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/teammember-jetbrains.md){:class="uk-button uk-button-success"}

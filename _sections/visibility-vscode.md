@@ -75,5 +75,5 @@ You can also use GitLive to see which particular lines are different in your tea
 ![See the changes in their working copy](/uploads/vscode-diff-view.gif "Diff View"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/visibility-vscode.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/visibility-vscode.md){:class="uk-button uk-button-success"}
 

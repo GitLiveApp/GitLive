@@ -33,4 +33,4 @@ You should now see the GitLive Logo on your sidebar navigation. This will appear
 
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/installation-vscode.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/installation-vscode.md){:class="uk-button uk-button-success"}

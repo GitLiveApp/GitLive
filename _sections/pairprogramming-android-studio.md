@@ -35,6 +35,6 @@ As with all GitLive features, real-time editing works interoperably between supp
 ![Pair Programming](/uploads/pairprogramming.gif "Pair Programming Example")
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/pairprogramming-android-studio.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/pairprogramming-android-studio.md){:class="uk-button uk-button-success"}
 
 

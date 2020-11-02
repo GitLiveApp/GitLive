@@ -29,4 +29,4 @@ In this quick guide you will learn how to authenticate GitLive on Android Studio
 ![Confirm installation](/uploads/android-studio-installed.jpeg  "Confirm installation"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/teammember-android-studio.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/teammember-android-studio.md){:class="uk-button uk-button-success"}

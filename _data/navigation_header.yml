@@ -24,7 +24,7 @@ right:
   #   button: primary-outline
 
   - title: Report an Issue
-    url: https://github.com/GitLiveApp/documentation/issues/new
+    url: https://github.com/GitLiveApp/GitLive/issues/new
     button: success
 
   # - title: Changelog

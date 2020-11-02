@@ -28,4 +28,4 @@ In this quick guide you will learn how to authenticate GitLive in VS Code as a t
 ![Confirm installation](/uploads/vscode-installed.jpg  "Confirm installation"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/teammember-vscode.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/teammember-vscode.md){:class="uk-button uk-button-success"}

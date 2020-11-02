@@ -86,4 +86,4 @@ The aim of the activity graph is to give a team with flexible working hours or r
 ![See how active others have been in the last 24 hrs](/uploads/visibility-activity.jpg "Activity Visibility"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/documentation/edit/master/_sections/visibility-jetbrains.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/visibility-jetbrains.md){:class="uk-button uk-button-success"}
