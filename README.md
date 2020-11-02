@@ -60,53 +60,6 @@ Feature requests are welcome. But please take a moment to find out whether your 
 ### Improving the Documentation
 If there are any improvements you would like to see to our documentation, you can also use the Github issue tracking system. Our documentation is all open source, so if there are any improvements you would like to make yourself, you can do so via a pull request, which we will then review.
 
-Follow this process if you'd like to make a change to the documentation:
-
-1. Clone the Documentarion Repository:
-
-   ```bash
-   # Clone the repo
-   git clone git@github.com:GitLiveApp/gitlive.git
-   # Navigate to the newly cloned directory
-   cd gitlive
-
-2. Get the latest changes from the master branch:
-
-   ```bash
-   git checkout master
-   git pull origin master
-   ```
-
-3. Create a new topic branch (off the main project development branch) to
-   contain your feature, change, or fix:
-
-   ```bash
-   git checkout -b <topic-branch-name>
-   ```
-
-4. Commit your changes in logical chunks. Please adhere to these [git commit
-   message guidelines](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-   or your code is unlikely be merged into the main project. Use Git's interactive rebase
-   feature to tidy up your commits before making them public.
-
-5. Locally merge (or rebase) the master branch into your topic branch:
-
-   ```bash
-   git rebase origin master
-   ```
-
-6. Push your changes to your branch:
-
-   ```bash
-   git push origin <topic-branch-name>
-   ```
-
-7. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/)
-    with a clear title and description.
-
-<br />
-<br />
-
 ### Serving your Changes Locally
 
 Install the bundler if you don't have it already.
