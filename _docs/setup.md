@@ -23,5 +23,5 @@ After installing the GitLive app on your repository hosting service, ask your te
 
 ## As a team member
 
-Given that the Admin of your repository has followed the instructions as in the [setup guide for administrators](/docs/admin), an individual team member needs to authenticate with his repository hosting service. Open the cloned repository in your IDE and authenticate with you repository hosting service as demonstrated in the [setup guide for team members](/docs/teammember).
+Given that the Admin of your repository has followed the instructions as in the [setup guide for administrators](/docs/admin), an individual team member needs to authenticate with his repository hosting service. Open the cloned repository in your IDE and authenticate with your repository hosting service as demonstrated in the [setup guide for team members](/docs/teammember).
 
