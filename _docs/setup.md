@@ -9,7 +9,7 @@ tags: [setup, signin]
 
 In order to use GitLive, you are required to use a repository hosting service that we support. These are currently GitHub, Bitbucket, GitLab and Azure DevOps.
 
-If you are unfamiliar with repository hosting services please read [Github's help section](https://help.github.com/en) in order to learn how to connect to a repository hosting service and create a new repository.
+If you are unfamiliar with repository hosting services please read [Github's help section](https://help.github.com/en) in order to get familiar with it.
 
 Clone any of your desired repositories and open them in your IDE.
 
