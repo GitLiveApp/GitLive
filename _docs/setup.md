@@ -9,13 +9,13 @@ tags: [setup, signin]
 
 In order to use GitLive, you are required to use a repository hosting service that we support. These are currently GitHub, Bitbucket, GitLab and Azure DevOps.
 
-If you are unfamiliar with repository hosting services please read [Github's help section](https://help.github.com/en) in order to acquaint yourself.
+If you are unfamiliar with repository hosting services please read [Github's help section](https://help.github.com/en) in order to get familiar with it.
 
 Clone any of your desired repositories and open them in your IDE.
 
 ## As an administrator
 
-As an Administrator you need to grant access to the desired repositories you want to use the GitLive plugin/extension with. This requires installing the GitLive app on your organization level or account level.
+As an Administrator, you need to grant access to the desired repositories you want to use the GitLive plugin/extension with. This requires installing the GitLive app on your organization level or account level.
 
 Proceed to the [setup guide for administrators](/docs/admin) to install the GitLive app on your repository hosting service.
 
