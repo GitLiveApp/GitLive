@@ -12,7 +12,7 @@ In this quick guide you will learn how to install the GitLive extension into the
 * Launch *Visual Studio Code*.
 * Locate the *Extensions* icon on the lefthand side of the IDE.
 
-![GitLive Installation Step 1](https://drive.google.com/uc?export=view&id=193oj07JMTrxT3TfYD96ruIEwuk9dsdYT){:class="screenshot"}
+![GitLive Installation Step 1](/uploads/vscode-extensions-tab.png){:class="screenshot"}
 
 
 ### Step 2
