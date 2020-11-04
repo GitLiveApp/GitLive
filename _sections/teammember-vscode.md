@@ -8,12 +8,12 @@ In this quick guide you will learn how to authenticate GitLive in VS Code as a t
 
 ### Steps for authenticating
 
-* If the admin of your repository has not granted GitLive access to the repository, request your administrator to follow the steps as shown in the [as an admin](docs/admin){:class="internal-link"} section.
+* If the admin of your repository has not granted GitLive access to the repository, ask your administrator to follow the steps as shown in the [as an admin](docs/admin){:class="internal-link"} section.
 
 ### Step 1
 
 * Install the plugin as explained in the [installation section](/){:class="internal-link"}.
-* Open up a clone of your the repository that you want to use GitLive with.
+* Open up a clone of the repository that you want to use GitLive with.
 
 ### Step 2
 
@@ -23,7 +23,7 @@ In this quick guide you will learn how to authenticate GitLive in VS Code as a t
 
 ### Step 3
 
-* Return to Visual Studio Code and as long as the admin of the repository has followed the guidelines shown in([setting up as an admin section](/docs/admin){:class="internal-link"}), your team should appear. If they haven't done this yet, direct them to the [setting up as an admin section](/docs/admin){:class="internal-link"}.
+* Return to Visual Studio Code. If the admin of the repository has followed the guidelines in the [setting up as an admin section](/docs/admin){:class="internal-link"}, your team should be now visible. If they have not done this yet, direct them to the [setting up as an admin section](/docs/admin){:class="internal-link"}.
 
 ![Confirm installation](/uploads/vscode-installed.jpg  "Confirm installation"){:class="screenshot"}
 

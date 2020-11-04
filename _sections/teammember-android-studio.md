@@ -9,7 +9,7 @@ In this quick guide you will learn how to authenticate GitLive on Android Studio
 
 ### Steps for authenticating
 
-* If the admin of your repository has not granted GitLive access to the repository, request your administrator to follow the steps as shown in the [as an admin](docs/admin){:class="internal-link"} section.
+* If the admin of your repository has not granted GitLive access to the repository, ask your administrator to follow the steps as shown in the [as an admin](docs/admin){:class="internal-link"} section.
 
 ### Step 1
 
@@ -24,7 +24,7 @@ In this quick guide you will learn how to authenticate GitLive on Android Studio
 
 ### Step 3
 
-* Return to Android Studio and and if the admin on the repository you are working on has followed the guidelines ([setting up as an admin section](/docs/admin){:class="internal-link"}), your team should appear. If they haven't done this yet, direct them to the [setting up as an admin section](/docs/admin){:class="internal-link"}.
+* Return to Android Studio. If the admin of the repository you are working on has followed the guidelines in the [setting up as an admin section](/docs/admin){:class="internal-link"}, your team should be now visible. If they have not done this yet, direct them to the [setting up as an admin section](/docs/admin){:class="internal-link"}.
 
 ![Confirm installation](/uploads/android-studio-installed.jpeg  "Confirm installation"){:class="screenshot"}
 
