@@ -9,12 +9,12 @@ In this quick guide you will learn how to install the GitLive app on your reposi
 
 ### Steps for authenticating
 
-As an administrator, you are required to install the GitLive app on the organization or account level and grant it access to the repositories that you'd like to use GitLive with.
+As an administrator, you are required to install the GitLive app on the organization or account level and grant it access to the repositories that you would like to use GitLive with.
 
 ### Step 1
 
 * Install the plugin as explained in the [installation section](/){:class="internal-link"}.
-* Open up a clone of your the repository that you want to use GitLive with.
+* Open up a clone of the repository that you want to use GitLive with.
 
 ### Step 2
 

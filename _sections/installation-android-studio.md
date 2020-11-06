@@ -10,7 +10,7 @@ In this quick guide you will learn how to install GitLive into the Android Studi
 ### Step 1
 ### Open the Plugins Dialog
 
-* Launch Android Studio and click on the Android Studio menu option.
+* Launch _Android Studio_ and click on the Android Studio _menu_ option.
 * Select _Preferences_.
 * In the _Preferences_ dialog, click on _Plugins_.
 
