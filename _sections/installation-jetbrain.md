@@ -10,9 +10,14 @@ In this quick guide you will learn how to install GitLive into any JetBrains IDE
 ### Step 1
 ### Open the Plugins Dialog
 
+For mac:
 * Launch your IDE and click on the IDE's name _menu_ option.
 * Select _Preferences_.
 * In the _Preferences_ dialog, click on _Plugins_.
+
+For windows or linux:
+* Launch your IDE and click on _Settings_ under the  _file_ option.
+* In the _Settings_ dialog, click on _Plugins_.
 
 ![Click on Preferences then Plugins](/uploads/jetbrains-plugin-2.jpg "Plugins"){:class="screenshot"}
 
