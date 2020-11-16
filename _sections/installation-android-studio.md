@@ -16,7 +16,7 @@ Mac:
 * In the _Preferences_ dialog, click on _Plugins_.
 
 Windows/Linux:
-* Launch _Android Studio_ and click on _Settings_ under the  _file_ option.
+* Launch _Android Studio_ and click on _Settings_ under the  _file_ menu.
 * In the _Settings_ dialog, click on _Plugins_.
 
 ![Click on Preferences then Plugins](/uploads/android-studio-plugin.jpeg){:class="screenshot"}
