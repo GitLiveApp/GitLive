@@ -16,7 +16,7 @@ Mac:
 * In the _Preferences_ dialog, click on _Plugins_.
 
 Windows/Linux:
-* Launch your IDE and click on _Settings_ under the  _file_ option.
+* Launch your IDE and click on _Settings_ under the _file_ menu.
 * In the _Settings_ dialog, click on _Plugins_.
 
 ![Click on Preferences then Plugins](/uploads/jetbrains-plugin-2.jpg "Plugins"){:class="screenshot"}
