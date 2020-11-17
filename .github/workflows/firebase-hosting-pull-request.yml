@@ -9,14 +9,11 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.44.0
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
-      - name: Install Dependencies
-        run: bundle install
-      - name: Build
-        run: bundle exec jekyll build
+          bundler-cache: true
+      - run: bundle exec jekyll build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
