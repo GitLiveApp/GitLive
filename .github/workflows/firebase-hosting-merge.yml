@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
+      - name: Install bundler
+        run: gem install bundler
       - name: Install Dependencies
         run: bundle install
       - name: Build
