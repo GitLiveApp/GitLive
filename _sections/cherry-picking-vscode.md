@@ -5,7 +5,7 @@ tab: vscode
 
 ### Overview
 
-GitLive's cherry picking feature builds on live diff views by allowing developers to cherry pick uncommitted code from their teammates.
+GitLive's cherry picking feature builds on live diff views, [shown in the visibility section](/docs/visibility){:class="internal-link"}, by allowing developers to cherry pick uncommitted code from their teammates.
 
 Click on your teammate’s working copy and select the cherry icon. You can then enter a commit message and stage the changes that you have just copied for commit on your branch straight away.
 

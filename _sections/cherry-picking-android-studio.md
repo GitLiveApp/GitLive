@@ -5,7 +5,7 @@ tab: android
 
 ### Overview
 
-GitLive's cherry picking feature builds on live diff views by allowing developers to cherry pick uncommitted code from their teammates.
+GitLive's cherry picking feature builds on live diff views, [shown in the visibility section](/docs/visibility){:class="internal-link"}, by allowing developers to cherry pick uncommitted code from their teammates.
 
 Click on your teammate’s working copy , right click and select the cherry pick option. Once you accept the changes, you will have your teammate’s changes in your local copy.
 
