@@ -62,7 +62,7 @@ In the screenshots below **teamhubuser** is initially online, shown by the white
 ### Hide Activity Graph
 
 Although the activity graph feature is not available on VSCode, if any of your colleagues use a Jetbrains IDE, they will be able to see your activity graph, and you can choose to hide your activity graph whenever you wish.
-On the left, the activity graph for  **SuDa2103** is visible and shows that he's been active recently. However, on the right hand side, the activity graph is hidden.
+On the left, the activity graph for  **SuDa2103** is visible and shows that he's been active recently. However, on the right-hand side, the activity graph is hidden.
 
 <table>
     <tbody>
@@ -79,7 +79,7 @@ On the left, the activity graph for  **SuDa2103** is visible and shows that he's
 
 ### Hide my Working Copy Changes
 
-On the left, GitLive shows that  **teamhubuser** has made some changes to the **Sample Repo** repository. Specifically, he has added some lines to the **BlueFalcon.kt** file. On the right hand side, all of these working copy changes are hidden from view.
+On the left, GitLive shows that  **teamhubuser** has made some changes to the **Sample Repo** repository. Specifically, he has added some lines to the **BlueFalcon.kt** file. On the right-hand side, all of these working copy changes are hidden from view.
 
 <table>
     <tbody>

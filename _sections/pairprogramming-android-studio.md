@@ -14,19 +14,19 @@ In order to collaborate with a teammate you need the same repository in your cur
 ### Instructions
 #### Step 1
 
- Access the feature by right clicking your teammates name and selecting "Collaborate on their files" (you will be the guest).
+ Access the feature by right clicking your teammate's name and selecting "Collaborate on their files" (you will be the guest).
 
 ![Click on Collaborate](/uploads/android-studio-collaborate.jpeg "Collaborate"){:class="screenshot"}
 
 #### Step 2
 
- The teammate you are looking to collaborate with (the host) will then get a popup to notify them of your request to collaborate.
+ The teammate you are looking to collaborate with (the host) will then get a pop-up notification of your request to collaborate.
 
 ![Collaborate Popup](/uploads/android-studio-collaborate-popup.jpeg "Collaborate Popup"){:class="screenshot"}
 
 #### Step 3
 
- If the host misses the popup notification sent by Android Studio, they can still view the request in their event log.
+ If the host misses the pop-up notification sent by Android Studio, they can still view the request in their event log.
 
 ![Collaborate Popup](/uploads/android-studio-collaborate-event-log.jpeg "Collaborate Event Log"){:class="screenshot"}
 

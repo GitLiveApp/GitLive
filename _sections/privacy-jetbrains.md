@@ -61,7 +61,7 @@ In the screenshots below **SuDa2103** is initially online, shown by the green do
 
 ### Hide Activity Graph
 
-On the left, the activity graph for  **SuDa2103** is visible and shows that he's been active recently. However, on the right hand side, the activity graph is hidden.
+On the left, the activity graph for  **SuDa2103** is visible and shows that he's been active recently. However, on the right-hand side, the activity graph is hidden.
 
 <table>
     <tbody>
@@ -78,7 +78,7 @@ On the left, the activity graph for  **SuDa2103** is visible and shows that he's
 
 ### Hide my Working Copy Changes
 
-On the left, GitLive shows that  **SuDa2103** has made some changes to the **Sample Repo** repository. Specifically, he has added some lines to the **BlueFalcon.kt** file. On the right hand side, all of these working copy changes are hidden from view.
+On the left, GitLive shows that  **SuDa2103** has made some changes to the **Sample Repo** repository. Specifically, he has added some lines to the **BlueFalcon.kt** file. On the right-hand side, all of these working copy changes are hidden from view.
 
 <table>
     <tbody>
