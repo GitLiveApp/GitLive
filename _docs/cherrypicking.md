@@ -1,6 +1,6 @@
 ---
 title: Cherry Picking Changes
-subtitle: Cherry Pick your Teammates uncommitted code!
+subtitle: Cherry Pick your Teammates unpushed code!
 styleid: sub-nav
 author: friedrich
 subsection: [VS Code, JetBrains, Android Studio]
