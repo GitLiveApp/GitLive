@@ -39,26 +39,26 @@ GitLive focuses on improving developer visibility with what we’re dubbing enha
 
 ### Who's Online?
 
-The GitLive window in your IDE lists the teammates of a given organization. Being online or not is denoted by a little green dot.
+The GitLive window in your IDE lists the teammates of a given organization. Being online is denoted by a little green dot.
 
 ![See who else is online](/uploads/jetbrains-visibility-online.jpeg "Online Visibility"){:class="screenshot"}
 
 ### Which repositories are they working on?
 
-GitLive displays all of your teammates’ working copies for the repositories that you share write access to. If your teammate is not active in a working copy, its last known state is still visible if it contains uncommitted changes.
+GitLive displays all of your teammates’ working copies for the repositories that you share write access to.  If your teammate is not active in a working copy, the last known state of the file will be visible, including uncommitted changes. 
 
-In the screenshot below **SuDa2103** shares access with you on a repository called **sample-repo**. He is currently working on the **sample-repo** repository as denoted by the dot next to the repository name.
+In the screenshot below **SuDa2103** shares access with you to the repository called **sample-repo**. He is currently working on the **sample-repo** repository as denoted by the dot next to the repository name.
 
 ![See which repos your teammates are on](/uploads/jetbrains-visibility-repo.jpeg "Which Repo"){:class="screenshot"}
 
 ### What branch are they currently on?
 
 As useful as it is to know a fellow developer is online, a common question teammates ask each other is ***what branch are you on?***
-Enhanced presence gives you awareness on the branch your teammate is currently working on. As can be seen in the screenshot below **SuDa2103** is currently checked out on the **bugfix** branch within the **sample-repo** repository.
+With the enhanced presence you can see the branch your teammate is currently working on. As can be seen in the screenshot below,  **SuDa2103** is currently checked out on the **bugfix** branch within the **sample-repo** repository.
 
 ![See which branch your teammates are on](/uploads/jetbrains-visibility-branch.jpeg "Which Branch"){:class="screenshot"}
 
-To break it down even further you can actually see the exact file your teammate is currently active on by the dot next to the files name. Below **SuDa2103** is currently active in file **BluetoothService.kt**.
+The white dot next to the file name indicates that your teammate is active in that particular file.Below **SuDa2103** is currently active in file **BluetoothService.kt**.
 
 ![See which file your teammates are on](/uploads/jetbrains-visibility-file.jpeg "Which File"){:class="screenshot"}
 
@@ -76,12 +76,12 @@ You can also use GitLive to see which particular lines are different in your tea
 
 ### How active have they been in the last 24 hours?
 
-Finally, GitLive's window also introduces a feature dedicated to flexible teams which need a sense of working presence. The activity graph beside each developer displays how active they have been in the last 24 hours.
+Finally, GitLive's window also introduces a feature dedicated to flexible teams which need a sense of working presence. The activity graph beside each developer's name displays how active they have been in the last 24 hours.
 
 Time runs from left to right with now being on the left-most side; you can see the exact time on rollover.
 It’s important to note the graph isn’t a reflection of how hard someone is working; for instance, tracking down a bug vs tweaking UI code vs writing unit tests are likely to produce widely different looking graphs.
 
-The aim of the activity graph is to give a team with flexible working hours or remote working an indication as to how their teammate’s tasks are progressing.
+The activity graph aims to give a team with flexible working hours or working remotely an indication as to how their teammates' tasks are progressing.
 
 ![See how active others have been in the last 24 hrs](/uploads/visibility-activity.jpg "Activity Visibility"){:class="screenshot"}
 
