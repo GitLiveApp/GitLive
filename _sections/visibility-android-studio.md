@@ -62,15 +62,15 @@ The white dot next to the file name indicates that your teammate is active in th
 
 ![See which file your teammates are on](/uploads/android-studio-visibility-file.jpeg "Which File"){:class="screenshot"}
 
-### What did your teammates change locally compared to their latest pull?
+### What did your teammates change locally compared to their latest push?
 
-Furthermore, you can drill down into an individual teammate’s working copy local changes for quick and easy problem-solving. This allows you to seamlessly understand what your teammate is referring to instead of going through a cumbersome commit-push-fetch cycle. The GitLive window shows you your teammate’s working copy changes relative to his latest pulled remote state, visualised by the number of lines added and deleted (denoted by the + and - symbols). As shown below, **SuDa2103** has edited the file **BluetoothService.kt** locally. The "+" symbols next to the file indicate that he has added three lines of code in this file locally compared to his latest pulled remote state.
+Furthermore, you can drill down into an individual teammate’s working copy local changes for quick and easy problem-solving. This allows you to seamlessly understand what your teammate is referring to instead of going through a cumbersome commit-push-fetch cycle. The GitLive window shows you your teammate’s working copy changes relative to his latest pushed remote state, visualised by the number of lines added and deleted (denoted by the + and - symbols). As can be seen below, **SuDa2103** has edited the file **BluetoothService.kt** locally. The "+" symbols next to the file implies that he has added three lines of code in this files locally compared to his latest pushed remote state.
 
 ![See the changes in their working copy](/uploads/android-studio-working-copy.jpeg "Working Copy Changes"){:class="screenshot"}
 
 ### Live Difference View
 
-You can also use GitLive to see which particular lines are different in your teammate's working copy, relative to yours. All you have to do is click on a filename, and a diff view visualising your teammate's local changes compared to his latest pulled remote state opens up.
+You can also use GitLive to see which particular lines are different in your teammates working copy, relative to yours. All you have to do is click on a filename, and a diff view visualising your teammates local changes compared to his latest pushed remote state opens up.
 
 ![See the changes in their working copy](/uploads/jetbrains-diff-view.gif "Diff View"){:class="screenshot"}
 
