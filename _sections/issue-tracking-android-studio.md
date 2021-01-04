@@ -10,13 +10,15 @@ GitLive integrates with Jira, GitHub Issues, Bitbucket Issues, Azure DevOps Work
 
 ### Select an Issue
 When on the default branch (e.g. main) of a repository, GitLive will prompt you to select an an issue to start work on. You can choose from the issues already assigned to you, assign an existing issue or create a new issue.
+![Issue Tracker Workflow](/uploads/jetbrains-select-issue.gif "Issue Tracker"){:class="screenshot"}
 
 
 
 ### Automatic Branch Creation
 After selecting an issue, a feature branch named after that issue automatically gets created (if it does not already exist) and checked out from the default branch, meaning you are ready to get to work straight away.
 
+![New Branch Created](/uploads/jetbrains-issue-selected.jpg "New Branch Created"){:class="screenshot"}
 
 ### Change Issue
 The issue you are currently working on is displayed in the status bar. You can change issues anytime by clicking this status bar item. This will check out a new branch for the new issue you have selected.
-
+![Switch Issue](/uploads/jetbrains-switch-issue.jpeg "Switch Issue"){:class="screenshot"}
