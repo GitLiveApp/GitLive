@@ -9,7 +9,7 @@ In this quick guide you will learn how to authenticate GitLive on any JetBrains 
 
 ### Steps for authenticating
 
-* If the admin of your repository has not granted GitLive access to the repository, ask your administrator to follow the steps as shown in the [as an admin](docs/admin){:class="internal-link"} section.
+* If the admin of your repository has not granted GitLive access to the repository, ask your administrator to follow the steps as shown in the [as an admin](/docs/admin){:class="internal-link"} section.
 
 ### Step 1
 
