@@ -12,6 +12,7 @@ To connect an issue tracker to your GitLive organisation, follow the steps as sh
 
 ### Select an Issue
 When on the default branch (e.g. main) of a repository, GitLive will prompt you to select an an issue to start work on. You can choose from the issues already assigned to you, assign an existing issue or create a new issue.
+
 ![Issue Tracker Workflow](/uploads/vscode-select-issue.gif "Issue Tracker"){:class="screenshot"}
 
 
