@@ -24,4 +24,5 @@ After selecting an issue, a feature branch named after that issue automatically 
 
 ### Change Issue
 The issue you are currently working on is displayed in the status bar. You can change issues anytime by clicking this status bar item. This will check out a new branch for the new issue you have selected.
+
 ![Switch Issue](/uploads/android-studio-switch-issue.jpeg "Switch Issue"){:class="screenshot"}
