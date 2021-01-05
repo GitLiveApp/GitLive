@@ -30,7 +30,7 @@ As an administrator, you are required to install the GitLive app on the organiza
 
 ### Step 4
 
-* You will also have the option to add an issue tracker to GitLive. If you choose not to connect an issue tracker, you can do this at a later date through the settings menu. You will have the option to connect the issue tracker attached to your repository hosting service or to Jira. In this case, since GitLive was set up on a Github organisation, the options are to slect Github issues or Jira.
+* You will also have the option to add an issue tracker to GitLive. If you choose not to connect an issue tracker, you can do this at a later date through the settings menu. You can connect to the issue tracker attached to your repository hosting service or to Jira. In this case, since GitLive was set up on a Github organisation, the options are to slect Github issues or Jira.
 
 ![Choose Issue Tracker](/uploads/choose-issue-tracker.jpg  "Choose Issue Tracker"){:class="screenshot"}
 

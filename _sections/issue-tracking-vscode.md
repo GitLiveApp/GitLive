@@ -15,8 +15,6 @@ When on the default branch (e.g. main) of a repository, GitLive will prompt you 
 ![Issue Tracker Workflow](/uploads/vscode-select-issue.gif "Issue Tracker"){:class="screenshot"}
 
 
-
-
 ### Automatic Branch Creation
 After selecting an issue, a feature branch named after that issue automatically gets created (if it does not already exist) and checked out from the default branch, meaning you are ready to get to work straight away.
 
