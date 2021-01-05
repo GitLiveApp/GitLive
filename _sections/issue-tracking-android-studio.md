@@ -5,7 +5,7 @@ tab: android
 
 ### Overview
 
-GitLive integrates with Jira, GitHub Issues, Bitbucket Issues, Azure DevOps Work Items and GitLab Issues, allowing you to share what issue you are currently working on with your teammates based on your current branch.
+GitLive integrates with Jira, GitHub Issues, Bitbucket Issues, Azure DevOps Work Items and GitLab Issues, allowing you to share which issue you are currently working on with your teammates based on your current branch.
 
 To connect an issue tracker to your GitLive organisation, follow the steps as shown in the [as an admin](/docs/admin){:class="internal-link"} section.
 
