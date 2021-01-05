@@ -1,8 +1,8 @@
 ---
 title: Issue Tracking
-subtitle: This section will discuss how to use an issue tracker with GitLive
+subtitle: See which issues your teammates are working on in real-time
 styleid: main-nav
-author: friedrich
+author: sunny
 subsection: [VS Code, JetBrains, Android Studio]
 step: ninth
 tags: [privacy, collaboration, settings, hide]
