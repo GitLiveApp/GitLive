@@ -5,7 +5,7 @@ tab: vscode
 
 ### Overview
 
-In this quick guide you will learn how to install the GitLive app on your self-hosted Gitlab instance as an administrator.
+In this quick guide you will learn how to install the GitLive app on your self hosted Gitlab instance as an administrator.
 
 ### Steps for authenticating
 As an administrator, you are required to install the GitLive app on the group level and grant it access to the repositories that you would like to use GitLive with. Note that your instance will need to be accessible from the internet in order for the integration to work correctly.
