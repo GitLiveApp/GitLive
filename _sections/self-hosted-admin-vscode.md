@@ -5,11 +5,14 @@ tab: vscode
 
 ### Overview
 
-In this quick guide you will learn how to install the GitLive app on your repository hosting service as an administrator, when using a self-hosted Gitlab instance.
+In this quick guide you will learn how to install the GitLive app on your self-hosted Gitlab instance as an administrator.
 
 ### Steps for authenticating
+As an administrator, you are required to install the GitLive app on the organization or account level and grant it access to the repositories that you would like to use GitLive with. Note that your instance will need to be accessible from the internet in order for the integration to work correctly.
 ### Step 1
-The first step is to install the latest GitLive [VS Code extension](https://marketplace.visualstudio.com/items?itemName=TeamHub.teamhub) or [JetBrains plugin](https://plugins.jetbrains.com/plugin/11955-gitlive). Once installed, open a cloned repository from your self-hosted GitLab instance and you will see the following prompt in the GitLive window:
+* Install the plugin as explained in the [installation section](/){:class="internal-link"}.
+* Open up a clone of the repository that you want to use GitLive with.
+* Then, you will see the following prompt in the GitLive window:
 
 ![Configure Server](/uploads/vscode-gsh-configure-server.jpg "Configure Server"){:class="screenshot"}
 
