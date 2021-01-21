@@ -8,7 +8,7 @@ tab: jetbrain
 In this quick guide you will learn how to install the GitLive app on your self-hosted Gitlab instance as an administrator.
 
 ### Steps for authenticating
-As an administrator, you are required to install the GitLive app on the organization or account level and grant it access to the repositories that you would like to use GitLive with. Note that your instance will need to be accessible from the internet in order for the integration to work correctly.
+As an administrator, you are required to install the GitLive app on the group level and grant it access to the repositories that you would like to use GitLive with. Note that your instance will need to be accessible from the internet in order for the integration to work correctly.
 ### Step 1
 * Install the plugin as explained in the [installation section](/){:class="internal-link"}.
 * Open up a clone of the repository that you want to use GitLive with.
