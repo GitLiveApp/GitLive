@@ -1,9 +1,9 @@
 ---
-title: As an Admin (Cloud Repository Hosting)
+title: As an Admin (Self Hosted Repository)
 subtitle: This section will guide you in setting up your team for the GitLive plugin as an administrator.
 styleid: sub-nav
-author: friedrich
+author: sunny
 subsection: [VS Code, JetBrains, Android Studio]
-step: third
+step: tenth
 tags: [setup, instatallation, admin, permissions]
 ---

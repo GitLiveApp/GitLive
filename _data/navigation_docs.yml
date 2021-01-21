@@ -2,6 +2,7 @@
   docs:
   - setup
   - admin
+  - admin-self-hosted
   - teammember
   - accountmanagement
   - visibility
