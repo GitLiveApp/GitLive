@@ -17,7 +17,7 @@ Clone any of your desired repositories and open them in your IDE.
 
 As an Administrator, you need to grant access to the desired repositories you want to use the GitLive plugin/extension with. This requires installing the GitLive app on your organization level or account level.
 
-Proceed to the [setup guide for administrators](/docs/admin) to install the GitLive app on your repository hosting service.
+If you are using a cloud repository hosting service (e.g. Github), proceed to the [setup guide for administrators (Cloud Repository Hosting)](/docs/admin) to install the GitLive app on your repository hosting service. If you are using a self-hosted repository, proceed to the [setup guide for administrators (Self-Hosted Repository)](/docs/admin-self-hosted)
 
 After installing the GitLive app on your repository hosting service, ask your team members to install the plugin in their respective IDEs and authenticate with GitLive as shown in the [setup guide for team members](/docs/teammember).
 
