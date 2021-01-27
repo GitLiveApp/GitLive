@@ -7,9 +7,9 @@ tags: [setup, signin]
 
 ### Pre-requisites
 
-In order to use GitLive, you are required to use a repository hosting service that we support. These are currently GitHub, Bitbucket, GitLab and Azure DevOps. Currently, we also support GitLab self-hosted repositories.
+In order to use GitLive, you are required to use a repository hosting service that we support. These are currently GitHub, Bitbucket, GitLab and Azure DevOps. We also support GitLab self-hosted repositories.
 
-If you are unfamiliar with repository hosting services please read [Github's help section](https://help.github.com/en) in order to get familiar with it.
+If you are unfamiliar with repository hosting services please read [Github's help section](https://help.github.com/en) in order to get familiar with them.
 
 Clone any of your desired repositories and open them in your IDE.
 
@@ -23,5 +23,5 @@ After installing the GitLive app on your repository hosting service, ask your te
 
 ## As a team member
 
-Given that the Admin of your repository has followed the instructions as in the [setup guide for administrators](/docs/admin), an individual team member needs to authenticate with his repository hosting service. Open the cloned repository in your IDE and authenticate with your repository hosting service as demonstrated in the [setup guide for team members](/docs/teammember).
+Given that the Admin of your repository has followed the instructions as in the [setup guide for administrators(Cloud Repository Hosting Services)](/docs/admin) or the [setup guide for administrators (GitLab Self-Hosted Repository)](/docs/admin-self-hosted) , an individual team member needs to authenticate themselves. To do this, you must open the cloned repository in your IDE and authenticate with your repository hosting service as demonstrated in the [setup guide for team members](/docs/teammember).
 
