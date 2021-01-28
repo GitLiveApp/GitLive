@@ -6,6 +6,10 @@ author: sunny
 
 ---
 
+**Does GitLive store source code from the Git repos it is accessing?**
+<br>
+No, we only store patches of the uncommitted changes.
+
 **Is GitLive free to use?**
 <br>
 We have a free tier that you and your team can use to access the core functionality of GitLive. We also have Standard and Enterprise paid plans for heavy users of GitLive.
