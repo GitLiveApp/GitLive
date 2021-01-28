@@ -1,5 +1,5 @@
 ---
-title: As an Admin
+title: As an Admin (Cloud Repository Hosting Services)
 subtitle: This section will guide you in setting up your team for the GitLive plugin as an administrator.
 styleid: sub-nav
 author: friedrich
