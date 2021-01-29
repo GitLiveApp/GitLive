@@ -16,7 +16,7 @@ hero:
 
 {% include team.html authors="nicktheman, friedrich, andrew, michael, sunny" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
 
-{% include cta.html title="Didn't find an answer or encountered a bug?" button_text="Report an issue" button_url="https://github.com/GitLiveApp/documentation/issues/new" subtitle="Get in touch with us for details on setup and additional support" %}
+{% include cta.html title="Didn't find an answer or encountered a bug?" button_text="Report an issue" button_url="https://github.com/GitLiveApp/GitLive/issues/new" subtitle="Get in touch with us for details on setup and additional support" %}
 
 
 
