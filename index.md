@@ -14,7 +14,7 @@ hero:
 
 {% include faqs.html multiple="true" title="Frequently asked questions" category="support" subtitle="Find quick answers to frequent questions asked by customers" %}
 
-{% include team.html authors="nicktheman, friedrich, andrew, michael, sunny, matt" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
+{% include team.html authors="nicktheman, friedrich, andrew, michael, sunny" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
 
 {% include cta.html title="Didn't find an answer or encountered a bug?" button_text="Report an issue" button_url="https://github.com/GitLiveApp/documentation/issues/new" subtitle="Get in touch with us for details on setup and additional support" %}
 
