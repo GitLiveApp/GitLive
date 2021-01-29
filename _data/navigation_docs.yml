@@ -6,6 +6,9 @@
   - admin-self-hosted
   - teammember
   - accountmanagement
+
+- title: Feature Guide
+  docs:
   - visibility
   - cherrypicking
   - privacy
@@ -13,7 +16,7 @@
   - issuetracking
 
 
-- title: Help
+- title: Help & Troubleshooting
   docs:
   - troubleshoot
   - support
