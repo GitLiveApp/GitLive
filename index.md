@@ -12,7 +12,7 @@ hero:
 
 <!-- {% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %} -->
 
-<!-- {% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %} -->
+{% include faqs.html multiple="true" title="Frequently asked questions" category="support" subtitle="Find quick answers to frequent questions asked by customers" %}
 
 {% include team.html authors="nicktheman, friedrich, andrew, michael, sunny, matt" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
 

@@ -1,5 +1,6 @@
 - title: Getting Started
   docs:
+  - installation
   - setup
   - admin
   - admin-self-hosted
