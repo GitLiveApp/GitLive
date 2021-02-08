@@ -34,8 +34,6 @@ GEM
       em-websocket (~> 0.5)
       jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
-    jekyll-redirect-from (0.16.0)
-      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -80,12 +78,11 @@ DEPENDENCIES
   jekyll-gist
   jekyll-livereload
   jekyll-paginate (~> 1.1)
-  jekyll-redirect-from
   jekyll-seo-tag
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.7.0p0
+   ruby 2.6.3p62
 
 BUNDLED WITH
    2.1.4

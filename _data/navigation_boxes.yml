@@ -5,12 +5,14 @@
   icon: cog
   doc: installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
+- title: Feature Guide
+  desc: Lean about all of GitLive's features and how to use them
   icon: settings
   doc: hero
+  doc: visibility
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
+- title: Help & Troubleshooting
+  desc: Get help and troubleshoot any issues you may be facing
   icon: code
   doc: customize
+  doc: troubleshoot
