@@ -69,6 +69,10 @@ authors:
       name:         Andrew Reed
       title:        Lead Developer
       avatar:       avatar-andrew.jpeg
+    andrewk:
+      name:         Andrew Keats
+      title:        Developer
+      avatar:       avatar-andrewk.jpg
     michael:
       name:         Michael Richardson
       title:        Developer
@@ -77,10 +81,10 @@ authors:
       name:         Sunny Dasgupta
       title:        Developer
       avatar:       avatar-sunny.jpeg
-    matt:
-      name:         Matthew Chen
+    agnieszka:
+      name:         Agnieszka Stec
       title:        Developer
-      avatar:       avatar-matt.jpeg
+      avatar:       avatar-agnieszka.jpeg
 
 # Social icons displayed in footer
 social:
