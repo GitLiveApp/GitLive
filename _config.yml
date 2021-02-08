@@ -111,7 +111,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Copyright &copy 2020 GitLive All rights reserved.
+    copyright:      Copyright &copy 2021 GitLive All rights reserved.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
