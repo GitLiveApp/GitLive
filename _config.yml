@@ -72,7 +72,7 @@ authors:
     andrewk:
       name:         Andrew Keats
       title:        Developer
-      avatar:       avatar-andrewk.jpg
+      avatar:       avatar-andrewk.png
     michael:
       name:         Michael Richardson
       title:        Developer
@@ -84,7 +84,7 @@ authors:
     agnieszka:
       name:         Agnieszka Stec
       title:        Developer
-      avatar:       avatar-agnieszka.jpeg
+      avatar:       avatar-agnieszka.png
 
 # Social icons displayed in footer
 social:
