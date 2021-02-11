@@ -33,30 +33,6 @@ navbar:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    john:
-      name:         John Brown
-      title:        Support
-      avatar:       avatar-john.png
-    evan:
-      name:         Evan Wells
-      title:        Support
-      avatar:       avatar-evan.png
-    sara:
-      name:         Sara Galen
-      title:        Lead Developer
-      avatar:       avatar-sara.png
-    alex:
-      name:         Alex Koch
-      title:        Design Engineer
-      avatar:       avatar-alex.png
-    daniel:
-      name:         Daniel Shultz
-      title:        Developer
-      avatar:       avatar-daniel.png
-    tom:
-      name:         Tom Farrell
-      title:        Developer
-      avatar:       avatar-tom.png
     nicktheman:
       name:         Nicholas Bransby
       title:        Co-Founder
