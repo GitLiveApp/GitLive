@@ -11,7 +11,7 @@ GitLive allows you to see your teammates’ changes to a file in the gutter of y
 ### Gutter indicators for teammate’s changes
 GitLive adds gutter indicators to show you where your teammate’s have made changes to the file you have open, these update in real-time as you and your teammates are editing.
 
-Insertions are denoted in green, modifications in blue and deletions in red.
+Insertions are represented by a green arrow, modifications are denoted by a blue line and deletions by a  grey line.
 
 ![jetbrains Gutter](/uploads/jetbrains-gutter-teammate.jpg "jetbrains Gutter"){:class="screenshot"}
 
@@ -27,11 +27,11 @@ Once a line change indicator appears in the gutter, hovering over the affected l
 ![jetbrains Gutter Popup](/uploads/jetbrains-gutter-popup.jpg "jetbrains Gutter Popup"){:class="screenshot"}
 
 ### Cherry Picking
-Merge conflict detection can be combined with GitLive’s Cherry Picking feature. When spotting a teammate’s change on lines you need to apply changes to as well, you might want to apply their changes first to prevent a conflict from emerging. Simply cherry pick your teammate’s changes in the popup which will grab the changes and apply them to your working copy. You can do this by selecting “Cherry Pick these Changes”.
+Merge conflict detection can be combined with GitLive’s Cherry Picking feature. When spotting a teammate’s change on lines you need to apply changes to as well, you might want to apply their changes first to prevent a conflict from emerging. Simply cherry pick your teammate’s changes in the popup which will grab the changes and apply them to your working copy. You can do this by selecting the cherry icon.
 
 ![jetbrains Gutter Cherry Pick](/uploads/jetbrains-gutter-cherry-pick.jpeg "jetbrains Gutter Cherry Pick"){:class="screenshot"}
 
 ### Hiding teammates’ gutter indicators
-By default the gutter indicators will show for a file as long as one or more teammates have changes in the same file, but you have the option to hide these indicators if they are competing with other annotations in the gutter. Toggle the indicators on and off by clicking the GitLive icon in the editor title menu bar.
+By default the gutter indicators will show for a file as long as one or more teammates have changes in the same file, but you have the option to hide these indicators if they are competing with other annotations in the gutter. Toggle the indicators on and off by right-clicking the gutter.
 
 ![jetbrains Toggle](/uploads/jetbrains-toggle.jpeg "jetbrains Toggle"){:class="screenshot"}
