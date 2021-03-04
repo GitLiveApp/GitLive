@@ -9,6 +9,8 @@ GitLive integrates with Jira, GitHub Issues, Bitbucket Issues, Azure DevOps Work
 
 To connect an issue tracker to your GitLive organisation, follow the steps as shown in the [as an admin](/docs/admin){:class="internal-link"} section.
 
+![View Issues Others are Working on](/uploads/android-studio-issue-tracker-visibility.jpeg "View Issues Others are Working on"){:class="screenshot"}
+
 
 ### Select an Issue
 When on the default branch (e.g. master) of a repository, GitLive will prompt you to select an issue to start work on. You can choose from the issues already assigned to you, assign an existing issue or create a new issue.
