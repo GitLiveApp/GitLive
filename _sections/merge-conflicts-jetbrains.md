@@ -5,7 +5,7 @@ tab: jetbrain
 
 ### Overview
 
-GitLive allows you to see your teammates’ changes to a file in the gutter of your editor and get notified of conflicts as soon as they occur even across branches and uncommitted changes
+GitLive allows you to see your teammates’ changes to a file in the gutter of your editor and get notified of conflicts as soon as they occur, even across branches and uncommitted changes.
 
 ![jetbrains Gutter](/uploads/jetbrains-gutter-cherry-pick.gif "jetbrains Gutter"){:class="screenshot"}
 ### Gutter indicators for teammate’s changes

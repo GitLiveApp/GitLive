@@ -5,7 +5,7 @@ tab: vscode
 
 ### Overview
 
-GitLive allows you to see your teammates’ changes to a file in the gutter of your editor and get notified of conflicts as soon as they occur even across branches and uncommitted changes
+GitLive allows you to see your teammates’ changes to a file in the gutter of your editor and get notified of conflicts as soon as they occur, even across branches and uncommitted changes.
 
 ![VScode Gutter](/uploads/vscode-gutter-cherry-pick.gif "VScode Gutter"){:class="screenshot"}
 
