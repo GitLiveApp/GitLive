@@ -13,7 +13,7 @@ GitLive adds gutter indicators to show you where your teammate’s have made cha
 
 Insertions are represented by a green arrow, modifications are denoted by a blue line and deletions by a  grey line.
 
-![jetbrains Gutter](/uploads/jetbrains-gutter-teammate.jpg "jetbrains Gutter"){:class="screenshot"}
+![Android Studio Gutter](/uploads/android-studio-gutter-teammate.jpeg "Android Studio Gutter"){:class="screenshot"}
 
 ### Conflict Indicators
 If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch which are conflicting with their branch and/or uncommitted changes.
