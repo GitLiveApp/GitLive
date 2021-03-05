@@ -22,7 +22,7 @@ If your teammate’s changes are conflicting with your local changes, they are a
 
 
 ### Review your teammates’ changes
-Once a line change indicator appears in the gutter, hovering over the affected line launches a popup which shows your teammates changes on the concerned lines, the connected issue they are working on and the code they have added.
+Once a line change indicator appears in the gutter, clicking the indicator launches a popup which shows your teammates changes on the concerned lines, the connected issue they are working on and the code they have added.
 
 ![jetbrains Gutter Popup](/uploads/jetbrains-gutter-popup.jpg "jetbrains Gutter Popup"){:class="screenshot"}
 
