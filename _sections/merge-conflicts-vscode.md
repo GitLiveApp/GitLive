@@ -7,7 +7,7 @@ tab: vscode
 
 GitLive allows you to see your teammates’ changes to a file in the gutter of your editor and get notified of conflicts as soon as they occur even across branches and uncommitted changes
 
-![VScode Gutter](/uploads/VScode-gutter-cherry-pick.gif "VScode Gutter"){:class="screenshot"}
+![VScode Gutter](/uploads/vscode-gutter-cherry-pick.gif "VScode Gutter"){:class="screenshot"}
 
 ### Gutter indicators for teammate’s changes
 GitLive adds gutter indicators to show you where your teammate’s have made changes to the file you have open, these update in real-time as you and your teammates are editing.
