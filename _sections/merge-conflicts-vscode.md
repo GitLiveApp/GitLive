@@ -28,7 +28,7 @@ Once a line change indicator appears in the gutter, hovering over the affected l
 ![VSCode Gutter Popup](/uploads/vscode-gutter-popup.jpg "VSCode Gutter Popup"){:class="screenshot"}
 
 ### Cherry Picking
-Merge conflict detection can be combined with GitLive’s Cherry Picking feature. When spotting a teammate’s change on lines you need to apply changes to as well, you might want to apply their changes first to prevent a conflict from emerging. Simply cherry pick your teammate’s changes in the popup which will grab the changes and apply them to your working copy. You can do this by selecting “Cherry Pick these Changes”.
+Merge conflict detection can be combined with GitLive’s [cherry picking](/docs/cherrypicking){:class="internal-link"} feature. When spotting a teammate’s change on lines you need to apply changes to as well, you might want to apply their changes first to prevent a conflict from emerging. Simply cherry pick your teammate’s changes in the popup which will grab the changes and apply them to your working copy. You can do this by selecting “Cherry Pick these Changes”.
 
 ![VSCode Gutter Cherry Pick](/uploads/vscode-gutter-cherry-pick.jpeg "VSCode Gutter Cherry Pick"){:class="screenshot"}
 
