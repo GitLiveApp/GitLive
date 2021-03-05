@@ -18,7 +18,7 @@ Insertions are represented by a green arrow, modifications are denoted by a blue
 ### Conflict Indicators
 If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch which are conflicting with their branch and/or uncommitted changes.
 
-![jetbrains Red Gutter](/uploads/jetbrains-red-gutter.jpg "jetbrains Red Gutter"){:class="screenshot"}
+![Android Studio Red Gutter](/uploads/android-studio-red-gutter.jpeg "Android Studio Red Gutter"){:class="screenshot"}
 
 
 ### Review your teammates’ changes
@@ -34,4 +34,4 @@ Merge conflict detection can be combined with GitLive’s Cherry Picking feature
 ### Hiding teammates’ gutter indicators
 By default the gutter indicators will show for a file as long as one or more teammates have changes in the same file, but you have the option to hide these indicators if they are competing with other annotations in the gutter. Toggle the indicators on and off by right-clicking the gutter.
 
-![jetbrains Toggle](/uploads/jetbrains-toggle.jpeg "jetbrains Toggle"){:class="screenshot"}
+![Android Studio Toggle](/uploads/android-studio-toggle.jpeg "Android Studio Toggle"){:class="screenshot"}
