@@ -23,7 +23,7 @@ If your teammate’s changes are conflicting with your local changes, they are a
 
 
 ### Review your teammates’ changes
-Once a line change indicator appears in the gutter, hovering over the affected line launches a popup which shows your teammates changes on the concerned lines, the connected issue they are working on and the code they have added. You can still access other VS Code functionality that is available while hovering, such as IntelliSense. It will appear at the bottom of the popup.
+Once a line change indicator appears in the gutter, hovering over the affected line gives you an [IntelliSense](https://code.visualstudio.com/docs/editor/intellisense){:class="internal-link"} like experience about your teammates changes, showing the changes on the concerned lines, the connected issue they are working on and the code they have added. You can still access other VS Code functionality that is available while hovering, such as [IntelliSense](https://code.visualstudio.com/docs/editor/intellisense){:class="internal-link"} itself. It will appear at the bottom of the popup.
 
 ![VSCode Gutter Popup](/uploads/vscode-gutter-popup.jpg "VSCode Gutter Popup"){:class="screenshot"}
 
