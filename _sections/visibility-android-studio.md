@@ -45,7 +45,7 @@ The GitLive window in your IDE lists the teammates of a given organization. Bein
 
 ### Which repositories are they working on?
 
-GitLive displays all of your teammates’ working copies for the repositories that you share write access to. If your teammate is not active in a working copy, the last known state of the file will be visible, including uncommitted changes. 
+GitLive displays all of your teammates’ working copies for the repositories that you share write access to. If your teammate is not active in a working copy, the last known state of the file will be visible, including uncommitted changes.
 
 In the screenshot below,  **SuDa2103** shares access with you to the repository called **sample-repo**. He is currently working on the **sample-repo** repository as denoted by the dot next to the repository name.
 
@@ -61,6 +61,12 @@ With the enhanced presence you can see the branch your teammate is currently wor
 The white dot next to the file name indicates that your teammate is active in that particular file. Below **SuDa2103** is currently active in file **BluetoothService.kt**.
 
 ![See which file your teammates are on](/uploads/android-studio-visibility-file.jpeg "Which File"){:class="screenshot"}
+
+### Which issue are they currently working on?
+
+Once an issue tracker has been connected, GitLive's [issue tracking](/docs/issuetracking/){:class="internal-link"} feature can be used. This allows you to share the current issue you are working on, providing your teammates with more context than the repository / branch level.
+
+![View Issues Others are Working on](/uploads/android-studio-issue-tracker-visibility.jpeg "View Issues Others are Working on"){:class="screenshot"}
 
 ### What did your teammates change locally compared to their latest push?
 
