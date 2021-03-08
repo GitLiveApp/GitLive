@@ -16,7 +16,7 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://teamhub-docs.firebaseapp.com"
+url:                "https://gitlive-docs.firebaseapp.com"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo: icon-gitlive.png
