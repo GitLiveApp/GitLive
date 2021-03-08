@@ -64,7 +64,7 @@ The white dot next to the file name indicates that your teammate is active in th
 
 ### Which issue are they currently working on?
 
-Once an issue tracker has been connected, GitLive's [issue tracking](/docs/issuetracking/){:class="internal-link"} feature can be used. This allows you to pinpoint which exact issues your teammates are currently making progress on. This can be used to give teammates more context than a simple branch name.
+Once an issue tracker has been connected, GitLive's [issue tracking](/docs/issuetracking/){:class="internal-link"} feature can be used. This allows you to share the current issue you are working on, providing your teammates with more context than the repository / branch level.
 
 ![View Issues Others are Working on](/uploads/android-studio-issue-tracker-visibility.jpeg "View Issues Others are Working on"){:class="screenshot"}
 
