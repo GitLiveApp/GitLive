@@ -17,13 +17,13 @@ Insertions are denoted in green, modifications in blue and deletions in red.
 ![VSCode Gutter](/uploads/vscode-gutter-teammate.jpg "VSCode Gutter"){:class="screenshot"}
 
 ### Conflict Indicators
-If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch which are conflicting with their branch and/or uncommitted changes.
+If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch which that conflict with your teammates' changes.
 
 ![VSCode Red Gutter](/uploads/vscode-red-gutter.jpg "VSCode Red Gutter"){:class="screenshot"}
 
 
 ### Review your teammates’ changes
-Once a line change indicator appears in the gutter, hovering over the affected line launches a popup which shows your teammates changes on the concerned lines, the connected issue they are working on and the code they have added.
+Once a line change indicator appears in the gutter, hovering over the affected line launches a popup which shows your teammates changes on the concerned lines, the connected issue they are working on and the code they have added. You can still access other VS Code functionality that is available while hovering, such as IntelliSense. It will appear at the bottom of the popup.
 
 ![VSCode Gutter Popup](/uploads/vscode-gutter-popup.jpg "VSCode Gutter Popup"){:class="screenshot"}
 
