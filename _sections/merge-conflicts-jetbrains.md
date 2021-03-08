@@ -16,7 +16,7 @@ Insertions are represented by a green arrow, modifications are denoted by a blue
 ![jetbrains Gutter](/uploads/jetbrains-gutter-teammate.jpg "jetbrains Gutter"){:class="screenshot"}
 
 ### Conflict Indicators
-If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch which that conflict with your teammates' changes.
+If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch that conflict with your teammates' changes.
 
 ![jetbrains Red Gutter](/uploads/jetbrains-red-gutter.jpg "jetbrains Red Gutter"){:class="screenshot"}
 

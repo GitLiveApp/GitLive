@@ -17,7 +17,7 @@ Insertions are denoted in green, modifications in blue and deletions in red.
 ![VSCode Gutter](/uploads/vscode-gutter-teammate.jpg "VSCode Gutter"){:class="screenshot"}
 
 ### Conflict Indicators
-If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch which that conflict with your teammates' changes.
+If your teammate’s changes are conflicting with your local changes, they are accompanied by the bright red conflict indicator. These conflicts can be uncommitted local changes you have not pushed yet or existing changes on your branch that conflict with your teammates' changes.
 
 ![VSCode Red Gutter](/uploads/vscode-red-gutter.jpg "VSCode Red Gutter"){:class="screenshot"}
 
