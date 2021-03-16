@@ -32,6 +32,12 @@ Merge conflict detection can be combined with GitLive’s [cherry picking](/docs
 ![jetbrains Gutter Cherry Pick](/uploads/jetbrains-gutter-cherry-pick.jpeg "jetbrains Gutter Cherry Pick"){:class="screenshot"}
 
 ### Hiding teammates’ gutter indicators
-By default, the gutter indicators will show for a file as long as one or more teammates have changes in the same file, but you have the option to hide these indicators if they are competing with other annotations in the gutter. Toggle the indicators on and off by right-clicking the gutter.
+By default, the gutter indicators will show for a file as long as one or more teammates have changes in the same file, but you have the option to hide these indicators if they are competing with other annotations in the gutter.
+
+If you want to show and hide gutter indicators for a specific file, toggle the indicators on and off by right-clicking the gutter.
 
 ![jetbrains Toggle](/uploads/jetbrains-toggle.jpeg "jetbrains Toggle"){:class="screenshot"}
+
+However, if you want to change your settings for all files and sessions, you can toggle indicators on and off in the GitLive settings menu.
+
+![jetbrains Hide Gutter](/uploads/jetbrains-hide-gutter.jpeg "jetbrains Hide Gutter"){:class="screenshot"}
