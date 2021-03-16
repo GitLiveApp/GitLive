@@ -33,6 +33,13 @@ Merge conflict detection can be combined with GitLive’s [cherry picking](/docs
 ![VSCode Gutter Cherry Pick](/uploads/vscode-gutter-cherry-pick.jpeg "VSCode Gutter Cherry Pick"){:class="screenshot"}
 
 ### Hiding teammates’ gutter indicators
-By default, the gutter indicators will show for a file as long as one or more teammates have changes in the same file, but you have the option to hide these indicators if they are competing with other annotations in the gutter. Toggle the indicators on and off by clicking the GitLive icon in the editor title menu bar.
+By default, the gutter indicators will show for a file as long as one or more teammates have changes in the same file, but you have the option to hide these indicators if they are competing with other annotations in the gutter.
+
+If you want to show and hide gutter indicators for a specific file, toggle the indicators on and off by clicking the GitLive icon in the editor title menu bar.
 
 ![VSCode Toggle](/uploads/vscode-toggle.jpeg "VSCode Toggle"){:class="screenshot"}
+
+However, if you want to change your settings for all files and sessions, you can toggle indicators on and off in the GitLive settings menu.
+
+![VSCode Hide Gutter](/uploads/vscode-hide-gutter.png "VSCode Hide Gutter"){:class="screenshot"}
+
