@@ -7,7 +7,7 @@ tab: jetbrain
 
 GitLive comes with privacy settings to give users more granular control over the information they want to share. Here we take you through some of the different settings users can enable to ensure privacy when not collaborating or when they require it.
 
-![Privacy Settings](/uploads/jetbrains-privacy-settings.jpg "Privacy Settings"){:class="screenshot"}
+![Privacy Settings](/uploads/jetbrains-privacy-settings.png "Privacy Settings"){:class="screenshot"}
 
 ### Privacy Settings
 
