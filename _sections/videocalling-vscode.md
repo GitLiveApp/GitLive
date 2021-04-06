@@ -5,16 +5,13 @@ tab: vscode
 
 ### Overview
 
-GitLive's real-time editing allows you to open a teammate’s file and start editing it exactly like you would in a Google Doc. This feature will undoubtedly boost your productivity when you want to fix code issues with a teammate.
+GitLive's video-calling feature allows you to video call teammates straight from your IDE and work together on files exactly like you would in a Google Doc. This feature will undoubtedly boost your productivity when you want to fix code issues with a teammate.
 
-### Pre- Requisites
-
-In order to collaborate with a teammate you need to have access to the same repository as the teammate you wish to collaborate with. If they open a file from another repository the live session will pause until they return to a common repository file.
 
 ### Instructions
 #### Step 1
 
- Access the feature by clicking the pen icon next to your teammate's name and selecting "Collaborate on their files" (you will be the guest).
+ Access the feature by clicking the phone icon next to your teammate's name.
 
 ![Click on Collaborate](/uploads/vscode-collaborate.jpeg "Collaborate"){:class="screenshot"}
 
