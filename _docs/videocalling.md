@@ -1,5 +1,5 @@
 ---
-title: Pair Programming
+title: Video Calling
 styleid: main-nav
 subtitle: Seamlessly edit files together in real-time
 author: friedrich
