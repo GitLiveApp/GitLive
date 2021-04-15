@@ -27,9 +27,14 @@ You can also call any collaborator through the command palette. First select “
 
 #### Step 3
 
-The teammate you are looking to call will then get a pop-up notification.
+The teammate you are looking to call will then get a pop-up notification. Once they ansewer the call will begin. 
 
 ![Collaborate Popup](/uploads/vscode-video-calling-receiver-popup.jpg "Video Calling Event Log"){:class="screenshot"}
+
+#### Call Interface
+The call is launched through a web app, that opens up after a call has been answered.
+
+![Collaborate Popup](/uploads/calling-main-img.jpg "Video Calling Event Log"){:class="screenshot"}
 
 #### Calling Features
 
@@ -56,9 +61,43 @@ There are four main controls available whilst on the call. You can choose to mut
   </tbody>
 </table>
 
-As with all GitLive features, real-time editing works interoperably between supported IDEs!
+
+#### CodeShare
+
+Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc. 
+
+![Share Code](/uploads/vscode-video-call-share-code.png "Share Code"){:class="screenshot"}
+
+By default you will automatically follow each others cursors when scrolling or switching files, you can disable following from within the IDE to work independently.
+
+![Follow Cursor](/uploads/vscode-call-follow-cursor.png "Follow Cursor"){:class="screenshot"}
 
 
+
+
+#### ScreenShare
+
+You have the option to share your screen with the other participant on the call, which can be useful if you need to share content from your browser or terminal for example. You can share a specific window or your entire desktop.
+
+![Collaborate Popup](/uploads/video-calling-receiver-screen.png "Video Calling Popup"){:class="screenshot"}
+
+#### Enable Video
+
+When you first join a call, it will default to an audio call. At any point, any participant can choose to turn on their video to begin a video call.
+
+![Collaborate Popup](/uploads/video-calling-videos.jpeg "Video Calling Popup"){:class="screenshot"}
+
+#### Mute Microphone
+
+If you choose to mute your microphone, other users will see the mute icon next to your name, so that they are aware of the fact that your microphone has been muted.
+
+![Collaborate Popup](/uploads/video-calling-muted-2.jpg "Video Calling Popup"){:class="screenshot"}
+
+#### Ending the Call
+
+Once the call has been ended, a message will appear notifying both participants. At this point, you can close the tab in your browser and return to your IDE.
+
+![Collaborate Popup](/uploads/video-call-ended.jpg "Video Calling Popup"){:class="screenshot"}
 
 
 [Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/pairprogramming-vscode.md){:class="uk-button uk-button-success"}
