@@ -3,7 +3,7 @@ title: Visual Studio Code
 tab: vscode
 ---
 
-## Overview
+### Overview
 
 GitLive's video-calling feature allows you to call teammates straight from your IDE and work together on files like you would on a Google Docs collaboration. This feature will undoubtedly boost your productivity when you want to fix code issues with a teammate.
 
@@ -11,11 +11,11 @@ GitLive's video-calling feature allows you to call teammates straight from your 
 ### Instructions
 #### Step 1
 
- Next to a collaborators name, you will find a phone icon allowing you to place a call.
+ Next to a teammates name, you will find a phone icon allowing you to place a call.
 
 ![Call Teammate](/uploads/android-studio-call-teammate.jpeg "Call Teammate"){:class="screenshot"}
 
-You can also call any collaborator through the “Search Everywhere” list. You can access your contact list from the actions tab of the “Search Everywhere” list.
+You can also call any teammate through the “Search Everywhere” list. You can access your contact list from the actions tab of the “Search Everywhere” list.
 
 ![Call Teammate Command Pallete](/uploads/android-studio-call-teammate-command-pallete.jpeg "Call Teammate Command Pallete"){:class="screenshot"}
 
