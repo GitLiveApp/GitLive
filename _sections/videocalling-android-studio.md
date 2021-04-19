@@ -5,13 +5,13 @@ tab: vscode
 
 ## Overview
 
-GitLive's video-calling feature allows you to video call teammates straight from your IDE and work together on files exactly like you would in a Google Doc. This feature will undoubtedly boost your productivity when you want to fix code issues with a teammate.
+GitLive's video-calling feature allows you to call teammates straight from your IDE and work together on files like you would on a Google Docs collaboration. This feature will undoubtedly boost your productivity when you want to fix code issues with a teammate.
 
 
 ### Instructions
 #### Step 1
 
- Next to a collaborators name, you will find a phone icon allowing you to place a call with them when clicked, once on the call you can also edit code together.
+ Next to a collaborators name, you will find a phone icon allowing you to place a call.
 
 ![Call Teammate](/uploads/android-studio-call-teammate.jpeg "Call Teammate"){:class="screenshot"}
 
@@ -21,13 +21,13 @@ You can also call any collaborator through the “Search Everywhere” list. You
 
 #### Step 2
 
- You will then get a pop-up notification that you have sent the request to call and are waiting for your teammate to accept.
+ You will then get a pop-up notification that you have sent the request to call and are waiting for your teammate to accept. They then have fifteen seconds to pick up, otherwise, they will receive a notification of a missed call.
 
 ![Caller Popup](/uploads/android-studio-calling-caller-popup.jpeg "Caller Popup"){:class="screenshot"}
 
 #### Step 3
 
-The teammate you are looking to call will then get a pop-up notification. Once they ansewer the call will begin. 
+The teammate you are looking to call will then get a pop-up notification. Once they answer, the call opens up in their browser.
 
 ![Receiver Popup](/uploads/android-studio-video-calling-receiver-popup.jpeg "Receiver Popup"){:class="screenshot"}
 
@@ -64,11 +64,11 @@ There are four main controls available whilst on the call. You can choose to mut
 
 #### CodeShare
 
-Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc. 
+Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc.
 
 ![Share Code](/uploads/vscode-video-call-share-code.png "Share Code"){:class="screenshot"}
 
-By default you will automatically follow each others cursors when scrolling or switching files, you can disable following from within the IDE to work independently.
+By default you will automatically follow each other's cursors when scrolling or switching files, you can disable following from within the IDE to work independently.
 
 ![Follow Cursor](/uploads/android-studio-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
 
