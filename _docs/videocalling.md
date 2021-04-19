@@ -1,5 +1,5 @@
 ---
-title: Video calling / Code sharing
+title: Video Calling / Code Sharing
 styleid: main-nav
 subtitle: Seamlessly edit files together in real-time
 author: sunny
