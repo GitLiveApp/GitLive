@@ -11,7 +11,7 @@ GitLive's video-calling feature allows you to call teammates straight from your 
 ### Instructions
 #### Step 1
 
- Next to a teammates name, you will find a phone icon allowing you to place a call.
+ Next to a teammate's name, you will find a phone icon allowing you to place a call.
 
 ![Call Teammate](/uploads/jetbrains-call-teammate.jpeg "Call Teammate"){:class="screenshot"}
 
@@ -21,7 +21,7 @@ You can also call any teammate through the “Search Everywhere” list. You can
 
 #### Step 2
 
- You will then get a pop-up notification that you have sent the request to call and are waiting for your teammate to accept. They then have fifteen seconds to pick up, otherwise, they will receive a notification of a missed call.
+ You will then get a pop-up notification that you have sent the request to call and are waiting for your teammate to accept. The call gets cancelled automatically after 15 seconds, leaving your teammate with a notification about the missed call and the option to call back.
 
 ![Caller Popup](/uploads/jetbrains-video-calling-caller-popup.jpg "Caller Popup"){:class="screenshot"}
 
