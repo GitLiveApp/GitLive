@@ -70,7 +70,7 @@ Selecting the share code option starts a collaboration session in your IDE. This
 
 By default you will automatically follow each other's cursors when scrolling or switching files, you can disable following from within the IDE to work independently.
 
-![Follow Cursor](/uploads/vscode-call-follow-cursor.png "Follow Cursor"){:class="screenshot"}
+![Follow Cursor](/uploads/vscode-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
 
 
 
