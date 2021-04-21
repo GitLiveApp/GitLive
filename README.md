@@ -1,14 +1,34 @@
 # GitLive Documentation
 
-GitLive allows you to view, share and edit code together with your team, live, across VS Code and JetBrains
-* Check who is online from your team and which repositories, branches and issues they are working on
-* Inspect and cherry-pick your teammates' local changes without performing a commit-push-fetch-merge cycle
-* Open a live view of the file a teammate is working on and edit together
-* Privacy-first: Easily control what you share including your online status, activity and local changes
-<br />
+## **Extend Git with real-time collaborative superpowers**
+<br>
 
-![Collaborative Coding Gif](https://github.com/GitLiveApp/blog/blob/master/assets/images/posts/2020/collabv3.gif)
-<br />
+[![Video](https://uploads-ssl.webflow.com/6033cf9dce54c65d97d57571/6079428cf8596461b1a3e1ec_image%20(7).png)](https://git.live/video)
+
+<br>
+
+- ### **The future of social coding**
+
+ **Connect.** See when your fellow contributors are online and which repos, branches and files they are working on. <br>
+ **Automated.** Connect your issue tracker to share what issue you are working on based on your current branch.
+
+
+<br>
+
+- ### **Resolve conflicts before they happen**
+
+ **Live.** See others' local changes in the gutter of your editor and get notified the moment you make a conflicting change. <br>
+ **Patch.** View diffs of other contributors' local files and cherry‑pick individual lines, files or complete working copies.
+
+<br>
+
+- ### **Code together in real-time**
+
+ **Codeshare.** Make voice and video calls directly from your editor and codeshare to see each others cursors. <br>
+ **Agnostic.** Edit together simultaneously, interoperable between VS Code and all JetBrains IDEs.
+
+
+<br>
 
 ## Contents
 1. Installation
