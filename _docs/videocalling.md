@@ -1,8 +1,8 @@
 ---
-title: Pair Programming
+title: Video Calling / Code Sharing
 styleid: main-nav
 subtitle: Seamlessly edit files together in real-time
-author: friedrich
+author: sunny
 subsection: [VS Code, JetBrains, Android Studio]
 step: fifth
 tags: [collaboration, collaborate, pair, pairprogramming, real-time]
