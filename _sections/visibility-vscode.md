@@ -75,7 +75,7 @@ Furthermore, you can drill down into an individual teammate’s working copy loc
 
 ### Live Difference View
 
-You can also use GitLive to see which particular lines are different in your teammates working copy, relative to yours. All you have to do is click on a filename, and a diff view visualising your teammates local changes compared to his latest pushed remote state opens up.
+You can also use GitLive to see which lines have been changed by yourteammate. All you have to do is click on a filename, and a diff view visualising your teammates local changes compared to his latest pushed remote state opens up.
 
 ![See the changes in their working copy](/uploads/vscode-diff-view.gif "Diff View"){:class="screenshot"}
 
