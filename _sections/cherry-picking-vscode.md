@@ -9,7 +9,7 @@ GitLive's cherry picking feature builds on live diff views, [shown in the visibi
 
 Click on your teammate’s working copy and select the cherry icon. On VS Code, these changes will get to be added to your staged changes, it is up to you to unstage or keep them staged.
 
-
+Is is too low on detail, replace with the content from the blog post 
 ![Cherry Picking](/uploads/vscode-cherry-picking.gif "Cherry Picking"){:class="screenshot"}
 
 
