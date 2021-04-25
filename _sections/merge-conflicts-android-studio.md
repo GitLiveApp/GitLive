@@ -42,3 +42,5 @@ However, if you want to change your settings for all files and sessions, you can
 
 ![Android Studio Hide Gutter](/uploads/android-studio-hide-gutter.jpeg "Android Studio Hide Gutter"){:class="screenshot"}
 
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/blob/master/_sections/merge-conflicts-android-studio.md){:class="uk-button uk-button-success"}
+
