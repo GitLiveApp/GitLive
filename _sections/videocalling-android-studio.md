@@ -100,5 +100,5 @@ Once the call has been ended, a message will appear notifying both participants.
 ![End Call](/uploads/video-call-ended.jpg "End Call"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/blob/master/_sections/videocalling-android-studio.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/videocalling-android-studio.md){:class="uk-button uk-button-success"}
 
