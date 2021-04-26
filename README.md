@@ -56,10 +56,10 @@
       1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/privacy-android-studio.md)
       1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/privacy-jetbrains.md)
       1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/privacy-vscode.md)
-1. Pair Programming
-   1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/pairprogramming-android-studio.md)
-   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/pairprogramming-jetbrains.md)
-   1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/pairprogramming-vscode.md)
+1. Video Calling
+   1. [Android Studio](https://github.com/GitLiveApp/GitLive/blob/master/_sections/videocalling-android-studio.md)
+   1. [Other JetBrains IDE's](https://github.com/GitLiveApp/GitLive/blob/master/_sections/videocalling-jetbrains.md)
+   1. [VS Code](https://github.com/GitLiveApp/GitLive/blob/master/_sections/videocalling-vscode.md)
 
 <br />
 
