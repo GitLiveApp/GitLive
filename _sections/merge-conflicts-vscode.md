@@ -43,3 +43,4 @@ However, if you want to change your settings for all files and sessions, you can
 
 ![VSCode Hide Gutter](/uploads/vscode-hide-gutter.png "VSCode Hide Gutter"){:class="screenshot"}
 
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/blob/master/_sections/merge-conflicts-vscode.md){:class="uk-button uk-button-success"}

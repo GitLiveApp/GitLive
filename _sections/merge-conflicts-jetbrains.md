@@ -41,3 +41,5 @@ If you want to show and hide gutter indicators for a specific file, toggle the i
 However, if you want to change your settings for all files and sessions, you can toggle indicators on and off in the GitLive settings menu.
 
 ![jetbrains Hide Gutter](/uploads/jetbrains-hide-gutter.jpeg "jetbrains Hide Gutter"){:class="screenshot"}
+
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/blob/master/_sections/merge-conflicts-jetbrains.md){:class="uk-button uk-button-success"}

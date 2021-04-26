@@ -100,5 +100,5 @@ Once the call has been ended, a message will appear notifying both participants.
 ![End the Call](/uploads/video-call-ended.jpg "End the Call"){:class="screenshot"}
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/pairprogramming-vscode.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/videocalling-vscode.md){:class="uk-button uk-button-success"}
 
