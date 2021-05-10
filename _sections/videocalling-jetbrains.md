@@ -93,6 +93,11 @@ If you choose to mute your microphone, other users will see the mute icon next t
 
 ![Mute Microphone](/uploads/video-calling-muted-2.jpg "Mute Microphone"){:class="screenshot"}
 
+#### Busy Status While on a Call
+In addition to the green (online) or orange (away) dot beside a user’s avatar in the GitLive tab, there is also a busy (red) status. During a call, the status indicator for both participants will turn red and others won’t be able to call either teammate until their call is complete.
+
+![Busy Status](/uploads/jetbrains-busy-indicator.jpeg "Busy Status "){:class="screenshot"}
+
 #### Ending the Call
 
 Once the call has been ended, a message will appear notifying both participants. At this point, you can close the tab in your browser and return to your IDE.
