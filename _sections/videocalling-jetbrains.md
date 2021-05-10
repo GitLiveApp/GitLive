@@ -64,7 +64,7 @@ There are four main controls available whilst on the call. You can choose to mut
 
 #### CodeShare
 
-Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc.
+Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc. You can even codeshare on files that aren't under source control (such as files ignored in Git) or files from outside the directory (such as external libraries’ source files). 
 
 ![Share Code](/uploads/vscode-video-call-share-code.png "Share Code"){:class="screenshot"}
 
