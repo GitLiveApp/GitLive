@@ -50,6 +50,13 @@ Finally, you will see a screen showing you that GitLive has been installed succe
 
 ![Successful Self Hosted Installation](/uploads/gsh-successful.jpg "Successful Self Hosted Installation"){:class="screenshot"}
 
+### Adding a Custom URL
+You can also add a custom URL that is accessible from the internet. If your remote URL is not accessible from the internet via HTTP or HTTPS, this custom URL will replace the remote URL with another one, so that our server can access the API.
+
+There will be a prompt in the footer of the GitLive pane that says "Specify self-hosted GitLab instance URL", this will take you to a webpage where you can add a different URL for all the requests done by the server.
+
+![Self hosted form](/uploads/gsh-form-empty-custom-url.jpg "Self hosted form"){:class="screenshot"}
+
 ### You're all set!
 
 * You can now have your team members install the plugin and authenticate. See the  [setting up as a team member section](/docs/teammember){:class="internal-link"}.
