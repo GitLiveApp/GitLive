@@ -85,7 +85,7 @@ You can also use GitLive to see which lines have been changed by your teammate. 
 
 Finally, GitLive's window also introduces a feature dedicated to flexible teams which need a sense of working presence. The activity graph beside each developer's name displays how active they have been in the last 24 hours.
 
-Time runs from left to right with now being on the left-most side; you can see the exact time on rollover.
+Time runs from right to left with now being on the right-most side; you can see the exact time on rollover.
 It’s important to note the graph isn’t a reflection of how hard someone is working; for instance, tracking down a bug vs tweaking UI code vs writing unit tests are likely to produce widely different looking graphs.
 
 The activity graph aims to give a team with flexible working hours or working remotely an indication as to how their teammates' tasks are progressing.
