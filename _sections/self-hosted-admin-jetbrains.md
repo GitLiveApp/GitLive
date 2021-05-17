@@ -19,7 +19,7 @@ As an administrator, you are required to install the GitLive app on the group le
 
 ### Step 2
 
-After clicking on *Configure new GitLab server*, follow the setup instructions. You'll start by adding a new OAuth 2.0 application in GitLab, this will allow you to set the right scopes, and get the GitLab Application ID and Secret, which is needed for the set up.
+After clicking on *Configure new GitLab server*, follow the setup instructions. You'll start by adding a new OAuth application in GitLab, this will allow you to set the right scopes, and get the GitLab Application ID and Secret, which is needed for the set up.
 
 ![Self hosted form](/uploads/gsh-form-empty.jpg "Self hosted form"){:class="screenshot"}
 
@@ -49,6 +49,13 @@ The next step is to authenticate and install your newly created GitLab applicati
 Finally, you will see a screen showing you that GitLive has been installed successfully, with the option to connect your issue tracker to enable our [issue tracking integration](/docs/issuetracking){:class="internal-link"}.
 
 ![Successful Self Hosted Installation](/uploads/gsh-successful.jpg "Successful Self Hosted Installation"){:class="screenshot"}
+
+### Adding a Custom URL
+If your remote URL is not accessible from the internet via HTTP or HTTPS, you can add a custom URL that is accessible from the internet. This URL will be used for communication between your GitLab instance and our servers.
+
+To add your custom URL, follow the prompt in the footer of the GitLive pane in your IDE which says "Specify self-hosted GitLab instance URL". You will then be redirected to a page where you can enter your custom URL.
+
+![Self hosted form](/uploads/gsh-form-empty-custom-url.jpg "Self hosted form"){:class="screenshot"}
 
 ### You're all set!
 
