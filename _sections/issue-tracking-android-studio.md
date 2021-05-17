@@ -30,4 +30,11 @@ The issue you are currently working on is displayed in the status bar. You can c
 ![Switch Issue](/uploads/android-studio-switch-issue.jpeg "Switch Issue"){:class="screenshot"}
 
 
+### Connect An Issue to an Existing Branch
+If you are on a branch which is not yet connected to an issue, GitLive will prompt you to connect an issue.
+
+You can select from the issues already assigned to your on your issue tracker, assign an existing issue to yourself or create a new issue for the branch. You also have the option to ignore that particular branch, in which case, you won’t be prompted to connect the branch to an issue again.
+
+![Connect Issue](/uploads/android-studio-connect-issue-to-branch.jpeg "Connect Issue"){:class="screenshot"}
+
 [Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/blob/master/_sections/issue-tracking-android-studio.md){:class="uk-button uk-button-success"}

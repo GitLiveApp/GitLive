@@ -64,7 +64,7 @@ There are four main controls available whilst on the call. You can choose to mut
 
 #### CodeShare
 
-Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a Google Doc.
+Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc. You can even codeshare on files that aren't under source control (such as files ignored in Git) or files from outside the directory (such as external libraries’ source files). 
 
 ![Share Code](/uploads/vscode-video-call-share-code.png "Share Code"){:class="screenshot"}
 
@@ -92,6 +92,12 @@ When you first join a call, it will default to an audio call. At any point, any 
 If you choose to mute your microphone, other users will see the mute icon next to your name, so that they are aware of the fact that your microphone has been muted.
 
 ![Mute Microphone](/uploads/video-calling-muted-2.jpg "Mute Microphone"){:class="screenshot"}
+
+#### Busy Status While on a Call
+In addition to the green (online) or orange (away) dot beside a user’s avatar in the GitLive tab, there is also a busy (red) status. During a call, the status indicator for both participants will turn red and others won’t be able to call either teammate until their call is complete.
+
+![Busy Status](/uploads/vscode-busy-indicator.jpeg "Busy Status "){:class="screenshot"}
+
 
 #### Ending the Call
 
