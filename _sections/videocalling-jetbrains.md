@@ -21,7 +21,7 @@ You can also call any teammate through the “Search Everywhere” list. You can
 
 #### Step 2
 
- You will then get a pop-up notification that you have sent the request to call and are waiting for your teammate to accept. The call gets cancelled automatically after 15 seconds, leaving your teammate with a notification about the missed call and the option to call back.
+ You will then get a pop-up notification that you have sent the request to call and are waiting for your teammate to accept it. The call gets cancelled automatically after 15 seconds, leaving your teammate with a notification about the missed call and the option to call back.
 
 ![Caller Popup](/uploads/jetbrains-video-calling-caller-popup.jpg "Caller Popup"){:class="screenshot"}
 
@@ -38,7 +38,7 @@ The call is launched through a web app, that opens up after a call has been answ
 
 #### Calling Features
 
-There are four main controls available whilst on the call. You can choose to mute yourself, to enable or disable video, to screenshare or codeshare.
+There are four main controls available whilst on the call. You can choose to mute yourself, to enable or disable video, to screen share or codeshare.
 
 <table class="table-custom">
   <tbody>
@@ -68,7 +68,7 @@ Selecting the share code option starts a collaboration session in your IDE. This
 
 ![Share Code](/uploads/vscode-video-call-share-code.png "Share Code"){:class="screenshot"}
 
-By default you will automatically follow each other's cursors when scrolling or switching files, you can disable following from within the IDE to work independently.
+By default, you will automatically follow each other's cursors when scrolling or switching files. You can disable following from within the IDE to work independently.
 
 ![Follow Cursor](/uploads/jetbrains-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
 
@@ -77,7 +77,7 @@ By default you will automatically follow each other's cursors when scrolling or 
 
 #### ScreenShare
 
-You have the option to share your screen with the other participant on the call, which can be useful if you need to share content from your browser or terminal for example. You can share a specific window or your entire desktop.
+You have the option to share your screen with the other participant on the call, which can be useful if you need to share content from your browser or terminal. You can share a specific window or your entire desktop.
 
 ![Screenshare](/uploads/video-calling-receiver-screen.png "Screenshare"){:class="screenshot"}
 
