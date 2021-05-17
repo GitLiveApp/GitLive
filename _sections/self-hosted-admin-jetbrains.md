@@ -19,7 +19,7 @@ As an administrator, you are required to install the GitLive app on the group le
 
 ### Step 2
 
-After clicking on *Configure new GitLab server*, follow the setup instructions. You'll start by adding a new OAuth 2.0 application in GitLab, this will allow you to set the right scopes, and get the GitLab Application ID and Secret, which is needed for the set up.
+After clicking on *Configure new GitLab server*, follow the setup instructions. You'll start by adding a new OAuth application in GitLab, this will allow you to set the right scopes, and get the GitLab Application ID and Secret, which is needed for the set up.
 
 ![Self hosted form](/uploads/gsh-form-empty.jpg "Self hosted form"){:class="screenshot"}
 
