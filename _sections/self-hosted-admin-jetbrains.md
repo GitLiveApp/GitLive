@@ -51,9 +51,9 @@ Finally, you will see a screen showing you that GitLive has been installed succe
 ![Successful Self Hosted Installation](/uploads/gsh-successful.jpg "Successful Self Hosted Installation"){:class="screenshot"}
 
 ### Adding a Custom URL
-You can also add a custom URL that is accessible from the internet. If your remote URL is not accessible from the internet via HTTP or HTTPS, this custom URL will replace the remote URL with another one, so that our server can access the API.
+If your remote URL is not accessible from the internet via HTTP or HTTPS, you can add a custom URL that is accessible from the internet. This URL will be used for communication between your GitLab instance and our servers.
 
-There will be a prompt in the footer of the GitLive pane that says "Specify self-hosted GitLab instance URL", this will take you to a webpage where you can add a different URL for all of the requests done by the server.
+To add your custom URL follow the prompt in the footer of the GitLive pane in your IDE which says "Specify self-hosted GitLab instance URL". You will then be redirected to a page where you can enter your custom URL.
 
 ![Self hosted form](/uploads/gsh-form-empty-custom-url.jpg "Self hosted form"){:class="screenshot"}
 
