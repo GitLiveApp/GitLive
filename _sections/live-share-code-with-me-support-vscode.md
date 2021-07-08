@@ -14,7 +14,7 @@ If you are using Live Share and you haven't signed in yet, you will be prompted 
 ![Live Share Sign In](/uploads/codeshare-liveshare-sign-in.jpeg "Live Share Sign In"){:class="screenshot"}
 
 
- Once your teammate has accepted on their end you are good to go!
+ Once you have signed in, you are good to go!
 
 #### Sharing with GitLive
 
