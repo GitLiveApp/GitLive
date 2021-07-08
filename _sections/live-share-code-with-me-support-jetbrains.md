@@ -7,7 +7,7 @@ tab: jetbrain
 
 Once you have selected a project you will be prompted to switch back to your IDE.
 
-![Code With Me Open Repo](/uploads/liveshare-open-repo.jpeg "Code With Me Open Repo"){:class="screenshot"}
+![Code With Me Open Repo](/uploads/codewithme-open-repo.jpg "Code With Me Open Repo"){:class="screenshot"}
 
 You will then be prompted to accept your teammate’s request to join.
 
