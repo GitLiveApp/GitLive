@@ -3,6 +3,8 @@ title: Visual Studio Code
 tab: vscode
 ---
 
+#### Starting a Live Share Session 
+
 Once you have selected a project you will be prompted to switch back to your IDE.
 
 ![Live Share Open Repo](/uploads/liveshare-open-repo.jpeg "Live Share Open Repo"){:class="screenshot"}
@@ -21,7 +23,7 @@ Sharing with the built-in codeshare and then realise you need the extra power of
 ![Codeshare Livesharing](/uploads/codeshare-livesharing.jpeg "Codeshare Livesharing"){:class="screenshot"}
 
 
-#### Joining a codeshare 
+#### Joining a Live Share Session 
 
 When your teammates starts codesharing via LiveShare or CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
 
