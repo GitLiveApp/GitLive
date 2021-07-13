@@ -22,14 +22,14 @@ If you are using Live Share and you haven't signed in yet, you will be prompted 
 
 #### Sharing with GitLive
 
-Sharing with the built-in codeshare and then realise you need the extra power of Live Share? No problem, you can switch from the built-in codeshare to Live Share at anytime in VS Code.
+Sharing with the built-in codeshare and then realise you need the extra power of Live Share? No problem, you can switch from the built-in codeshare to Live Share at any time in VS Code.
 
 ![Codeshare Livesharing](/uploads/codeshare-livesharing.jpeg "Codeshare Livesharing"){:class="screenshot"}
 
 
 #### Joining a Live Share Session 
 
-When your teammates starts codesharing via LiveShare or CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
+When your teammate starts codesharing via LiveShare or CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
 
 ![Live Share Open Editor](/uploads/codeshare-liveshare-open-editor.jpg "Live Share Open Editor"){:class="screenshot"}
 
