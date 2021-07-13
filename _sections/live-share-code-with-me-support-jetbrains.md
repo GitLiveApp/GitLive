@@ -5,6 +5,10 @@ tab: jetbrain
 
 #### Starting a Code With Me Session 
 
+To start a Code With Me session, you should select the Code With Me tab on the Share Code popup modal, and select the project you would like to share. 
+
+![Start Code With Me](/uploads/codeshare-start-codewithme.jpg "Start Code With Me"){:class="screenshot"}
+
 Once you have selected a project you will be prompted to switch back to your IDE.
 
 ![Code With Me Open Repo](/uploads/codewithme-open-repo.jpg "Code With Me Open Repo"){:class="screenshot"}

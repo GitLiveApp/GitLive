@@ -5,6 +5,10 @@ tab: vscode
 
 #### Starting a Live Share Session 
 
+To start a Live Share session, you should select the Live Share tab on the Share Code popup modal, and select the project you would like to share. 
+
+![Start Live Share](/uploads/codeshare-start-liveshare.jpg "Start Live Share"){:class="screenshot"}
+
 Once you have selected a project you will be prompted to switch back to your IDE.
 
 ![Live Share Open Repo](/uploads/liveshare-open-repo.jpeg "Live Share Open Repo"){:class="screenshot"}
