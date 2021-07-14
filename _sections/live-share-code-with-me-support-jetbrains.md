@@ -22,17 +22,17 @@ You will then be prompted to accept your teammate’s request to join.
 
 #### Joining a Code With Me Session 
 
-When your teammate starts codesharing via LiveShare or CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
+When your teammate (who will host the code share in this case) starts codesharing via CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
 
 ![Code With Me Open Editor](/uploads/codeshare-codewithme-open-editor.jpg "Code With Me Open Editor"){:class="screenshot"}
 
 
-Here you'll see any notifications regarding joining the codeshare.
+Any notifications relating to the codeshare will appear in your IDE window.
 
 ![Code With Me Join Collab](/uploads/codeshare-codewithme-waiting-for-approval.jpg "Code With Me Join Collab"){:class="screenshot"}
 
 
-Then your teammate's project will open in a new IDE window and you are good to go!
+Your teammate's project will then open in a new IDE window and you are good to go!
 
 If you didn't have a compatible IDE already open you will be prompted to open the sharing link in the browser instead.
 

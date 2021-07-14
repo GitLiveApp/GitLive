@@ -12,7 +12,7 @@ Once you have selected a project you will be prompted to switch back to your IDE
 
 ![Live Share Open Repo](/uploads/liveshare-open-repo.jpeg "Live Share Open Repo"){:class="screenshot"}
 
-If you are using Live Share and you haven't signed in yet, you will be prompted to sign in. 
+If you have already installed Live Share and you haven't signed in yet, you will be prompted to sign in. 
 
 ![Live Share Sign In](/uploads/codeshare-liveshare-sign-in.jpeg "Live Share Sign In"){:class="screenshot"}
 
@@ -21,17 +21,17 @@ If you are using Live Share and you haven't signed in yet, you will be prompted 
 
 #### Joining a Live Share Session 
 
-When your teammate starts codesharing via LiveShare or CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
+When your teammate (who will host the code share in this case) starts codesharing via Live Share and you have VS Code open, you will see a prompt to switch to that IDE window.
 
 ![Live Share Open Editor](/uploads/codeshare-liveshare-open-editor.jpg "Live Share Open Editor"){:class="screenshot"}
 
 
-Here you'll see any notifications regarding joining the codeshare.
+Any notifications relating to the codeshare will appear in your IDE window.
 
 ![Live Share Join Collab](/uploads/codeshare-liveshare-join-collab.jpeg "Live Share Join Collab"){:class="screenshot"}
 
 
-Then your teammate's project will open in a new IDE window and you are good to go!
+Your teammate's project will then open in a new IDE window and you are good to go!
 
 If you didn't have a compatible IDE already open you will be prompted to open the sharing link in the browser instead.
 
