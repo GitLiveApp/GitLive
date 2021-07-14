@@ -1,7 +1,7 @@
 ---
 title: Support for Live Share / Code With Me
 styleid: sub-nav
-subtitle: Seamlessly edit files together in real-time, using IDE specific collaboration tools
+subtitle: Leverage IDE specific collaboration tools for a fully-fledged pair programming experience
 author: sunny
 subsection: [Live Share, Code With Me]
 step: twelfth

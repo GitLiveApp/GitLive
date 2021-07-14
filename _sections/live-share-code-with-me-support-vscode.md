@@ -4,8 +4,7 @@ tab: vscode
 ---
 
 #### Starting a Live Share Session 
-
-To start a Live Share session, you should select the Live Share tab on the Share Code popup modal, and select the project you would like to share. 
+If you have the Live Share extension installed on VS Code, you have the option of using Live Share to pair program on your call. To start a Live Share session, you should select the Live Share tab on the Share Code popup modal, and select the project you would like to share. 
 
 ![Start Live Share](/uploads/codeshare-start-liveshare.jpg "Start Live Share"){:class="screenshot"}
 
@@ -19,13 +18,6 @@ If you are using Live Share and you haven't signed in yet, you will be prompted 
 
 
  Once you have signed in, you are good to go!
-
-#### Sharing with GitLive
-
-Sharing with the built-in codeshare and then realise you need the extra power of Live Share? No problem, you can switch from the built-in codeshare to Live Share at any time in VS Code.
-
-![Codeshare Livesharing](/uploads/codeshare-livesharing.jpeg "Codeshare Livesharing"){:class="screenshot"}
-
 
 #### Joining a Live Share Session 
 
@@ -49,4 +41,11 @@ If you didn't have a compatible IDE already open you will be prompted to open th
 From here you can open a compatible IDE if you already have one installed or even join via the browser.
 
 ![Live Share Open Editor](/uploads/codeshare-liveshare-confirmation.jpeg "Live Share Open Editor"){:class="screenshot"}
+
+#### Switiching from GitLive code share to Live Share
+
+Sharing with the built-in codeshare and then realise you need the extra power of Live Share? No problem, you can switch from the built-in codeshare to Live Share at any time in VS Code.
+
+![Codeshare Livesharing](/uploads/codeshare-livesharing.jpeg "Codeshare Livesharing"){:class="screenshot"}
+
 

@@ -65,7 +65,7 @@ There are four main controls available whilst on the call. You can choose to mut
 
 #### CodeShare
 
-Selecting the share code option opens a dialog, which shows the different projects you have open and the different methods of sharing you have available. You can choose to use JetBrains Code With Me to collaborate, or you can use GitLive's proprietary code sharing solution. You can find more information about using Code With Me here. 
+Selecting the share code option opens up a modal, which shows the different projects you have open and the different methods of pair programming that are available. You can choose to use JetBrains Code With Me to collaborate, or you can use GitLive's proprietary code sharing solution. You can find more information about using Code With Me here. 
 
 ![Share Code](/uploads/codeshare-gitlive-options.jpg "Share Code"){:class="screenshot"}
 
