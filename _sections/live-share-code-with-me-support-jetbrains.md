@@ -18,7 +18,7 @@ You will then be prompted to accept your teammate’s request to join.
 ![Code With Me Accept User](/uploads/codeshare-codewithme-accept-user.jpg "Code With Me Accept User"){:class="screenshot"}
 
 
- Once your teammate has accepted on their end you are good to go!
+You are now ready for guests to join your session!
 
 #### Joining a Code With Me Session 
 
