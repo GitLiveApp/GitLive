@@ -77,7 +77,7 @@ By default, you will automatically follow each other's cursors when scrolling or
 
 ![Follow Cursor](/uploads/android-studio-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
 
-You can choose to use JetBrains Code With Me to collaborate, rather than GitLive's proprietary code sharing solution. You can find more information about using Code With Me here.
+You can choose to use JetBrains Code With Me to collaborate, rather than GitLive's proprietary code sharing solution. You can find more information about using Code With Me [here](/docs/supportforlivesharecodewithme/){:class="internal-link"}.
 
 
 #### ScreenShare

@@ -76,7 +76,7 @@ By default, you will automatically follow each other's cursors when scrolling or
 
 ![Follow Cursor](/uploads/vscode-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
 
-If you have Live Share installed, you can choose to use that to collaborate, instead of GitLive's proprietary code sharing solution. You can find more information about using Live Share here. 
+If you have Live Share installed, you can choose to use that to collaborate, instead of GitLive's proprietary code sharing solution. You can find more information about using Live Share [here](/docs/supportforlivesharecodewithme/){:class="internal-link"}. 
 
 
 #### ScreenShare
