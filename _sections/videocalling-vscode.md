@@ -64,7 +64,7 @@ There are four main controls available whilst on the call. You can choose to mut
 
 #### CodeShare
 
-Selecting the share code option opens up a modal, which shows the different projects you have open and the different methods of pair programming that are available. If you have Live Share installed, you can choose to use that to collaborate, or you can use GitLive's proprietary code sharing solution. You can find more information about using Live Share here. 
+Selecting the share code option opens up a modal, which shows the different projects you have open and the different methods of pair programming that are available. 
 
 ![Share Code](/uploads/codeshare-gitlive-options.jpg "Share Code"){:class="screenshot"}
 
@@ -76,7 +76,7 @@ By default, you will automatically follow each other's cursors when scrolling or
 
 ![Follow Cursor](/uploads/vscode-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
 
-
+If you have Live Share installed, you can choose to use that to collaborate, instead of GitLive's proprietary code sharing solution. You can find more information about using Live Share here. 
 
 
 #### ScreenShare
