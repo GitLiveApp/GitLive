@@ -17,7 +17,7 @@ If you have already installed Live Share and you haven't signed in yet, you will
 ![Live Share Sign In](/uploads/codeshare-liveshare-sign-in.jpeg "Live Share Sign In"){:class="screenshot"}
 
 
- Once you have signed in, you are good to go!
+ Once you have signed in, you are ready for guests to join yout session!
 
 #### Joining a Live Share Session 
 
