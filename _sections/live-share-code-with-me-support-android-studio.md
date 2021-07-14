@@ -1,6 +1,6 @@
 ---
-title: Android Studio
-tab: android
+title: Live Share
+tab: Live Share
 ---
 
 #### Starting a Code With Me Session 
