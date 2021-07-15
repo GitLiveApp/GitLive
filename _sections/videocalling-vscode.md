@@ -68,7 +68,7 @@ Selecting the share code option opens up a modal, which shows the different proj
 
 ![Share Code](/uploads/codeshare-gitlive-options.jpg "Share Code"){:class="screenshot"}
 
-Selecting the GitLive option is the quickest way to start a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc. You can even codeshare on files that aren't under source control (such as files ignored in Git) or files from outside the directory (such as external libraries’ source files). 
+Selecting the GitLive option is the quickest way to start a collaboration session in your IDE. This means that any file the host opens will also open in the IDE of the guest, allowing you both to edit together as you would in a google doc. You can even codeshare on files that aren't under source control (such as files ignored in Git) or files from outside the directory (such as external libraries’ source files. 
 
 ![Share Code](/uploads/vscode-video-call-share-code.png "Share Code"){:class="screenshot"}
 
