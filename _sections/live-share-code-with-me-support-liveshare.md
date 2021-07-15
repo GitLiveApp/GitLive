@@ -42,7 +42,7 @@ From here you can open VS Code if you already have it installed or even join via
 
 ![Live Share Open Editor](/uploads/codeshare-liveshare-confirmation.jpeg "Live Share Open Editor"){:class="screenshot"}
 
-#### Switiching from GitLive code share to Live Share
+#### Switching from GitLive code share to Live Share
 
 Sharing with the built-in codeshare and then realise you need the extra power of Live Share? No problem, you can switch from the built-in codeshare to Live Share at any time in VS Code.
 

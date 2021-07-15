@@ -43,7 +43,7 @@ From here you can open any JetBrains IDE if you already have one installed or ev
 
 ![Code With Me Confirmation](/uploads/codeshare-codewithme-confirmation.jpg "Code With Me Confirmation"){:class="screenshot"}
 
-#### Switiching from GitLive code share to Code With Me
+#### Switching from GitLive code share to Code With Me
 
 Sharing with the built-in codeshare and then realise you need the extra power of Code With Me? No problem, you can switch from the built-in codeshare to Code With Me at any time in the IDE.
 
