@@ -18,11 +18,11 @@ You will then be prompted to accept your teammate’s request to join.
 ![Code With Me Accept User](/uploads/codeshare-codewithme-accept-user.jpg "Code With Me Accept User"){:class="screenshot"}
 
 
-You are now ready for guests to join your session!
+The guest wll now be able to join the session!
 
 #### Joining a Code With Me Session 
 
-When your teammate (who will host the code share in this case) starts codesharing via CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
+Once the host starts codesharing via CodeWithMe and you have a compatible IDE already open you will see a prompt to switch to that IDE window.
 
 ![Code With Me Open Editor](/uploads/codeshare-codewithme-open-editor.jpg "Code With Me Open Editor"){:class="screenshot"}
 

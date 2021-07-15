@@ -17,11 +17,11 @@ If you have already installed Live Share and you haven't signed in yet, you will
 ![Live Share Sign In](/uploads/codeshare-liveshare-sign-in.jpeg "Live Share Sign In"){:class="screenshot"}
 
 
- Once you have signed in, you are ready for guests to join your session!
+ Once you have signed in, the guest wll be able to join the session.
 
 #### Joining a Live Share Session 
 
-When your teammate (who will host the code share in this case) starts codesharing via Live Share and you have VS Code open, you will see a prompt to switch to that IDE window.
+Once the host starts codesharing via Live Share and you have VS Code open, you will see a prompt to switch to that IDE window.
 
 ![Live Share Open Editor](/uploads/codeshare-liveshare-open-editor.jpg "Live Share Open Editor"){:class="screenshot"}
 
@@ -33,12 +33,12 @@ Any notifications relating to the codeshare will appear in your IDE window.
 
 Your teammate's project will then open in a new IDE window and you are good to go!
 
-If you didn't have a compatible IDE already open you will be prompted to open the sharing link in the browser instead.
+If you didn't have VS Code already open you will be prompted to open the sharing link in the browser instead.
 
 ![Accept Live Share](/uploads/codeshare-accept-liveshare.jpeg "Accept Live Share"){:class="screenshot"}
 
 
-From here you can open a compatible IDE if you already have one installed or even join via the browser.
+From here you can open VS Code if you already have it installed or even join via the browser.
 
 ![Live Share Open Editor](/uploads/codeshare-liveshare-confirmation.jpeg "Live Share Open Editor"){:class="screenshot"}
 
