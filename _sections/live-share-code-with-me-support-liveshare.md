@@ -3,7 +3,7 @@ title: Visual Studio Code
 tab: vscode
 ---
 
-#### Starting a Live Share Session 
+#### Starting a Live Share Session as a Host
 If you have the Live Share extension installed on VS Code, you have the option of using Live Share to pair program on your call. If you haven't installed it, you can install it [here](https://visualstudio.microsoft.com/services/live-share/). To start a Live Share session, you should select the Live Share tab on the Share Code popup modal, and select the project you would like to share. 
 
 ![Start Live Share](/uploads/codeshare-start-liveshare.jpg "Start Live Share"){:class="screenshot"}
@@ -19,7 +19,7 @@ If you have already installed Live Share and you haven't signed in yet, you will
 
  Once you have signed in, the guest will be able to join the session.
 
-#### Joining a Live Share Session 
+#### Joining a Live Share Session as a Guest
 
 Once the host starts codesharing via Live Share and you have VS Code open, you will see a prompt to switch to that IDE window.
 
