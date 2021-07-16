@@ -5,6 +5,7 @@ tab: jetbrain
 
 #### Starting a Code With Me Session as the Host
 
+For Code With Me to appear as an option, you need to be running the 2021.1 or any newer version of a JetBrains IDE. 
 To start a Code With Me session, you should select the Code With Me tab on the Share Code popup modal, and select the project you would like to share. 
 
 ![Start Code With Me](/uploads/codeshare-start-codewithme.jpg "Start Code With Me"){:class="screenshot"}
