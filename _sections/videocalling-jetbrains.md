@@ -62,9 +62,14 @@ There are four main controls available whilst on the call. You can choose to mut
 </table>
 
 
+
 #### CodeShare
 
-Selecting the share code option starts a collaboration session in your IDE. This means that any file you open will also open in the IDE of the other participant on the call, allowing you to edit together as you would in a google doc. You can even codeshare on files that aren't under source control (such as files ignored in Git) or files from outside the directory (such as external libraries’ source files). 
+Selecting the share code option opens up a modal, which shows the different projects you have open and the different methods of pair programming that are available.  
+
+![Share Code](/uploads/codeshare-gitlive-options.jpg "Share Code"){:class="screenshot"}
+
+Selecting the GitLive option is the quickest way to start a collaboration session in your IDE. This means that any file the host opens will also open in the IDE of the guest, allowing you both to edit together as you would in a google doc. You can even codeshare on files that aren't under source control (such as files ignored in Git) or files from outside the directory (such as external libraries’ source files. 
 
 ![Share Code](/uploads/vscode-video-call-share-code.png "Share Code"){:class="screenshot"}
 
@@ -72,7 +77,7 @@ By default, you will automatically follow each other's cursors when scrolling or
 
 ![Follow Cursor](/uploads/jetbrains-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
 
-
+You can choose to use JetBrains Code With Me to collaborate, rather than GitLive's proprietary code sharing solution. You can find more information about using Code With Me [here](/docs/supportforlivesharecodewithme/){:class="internal-link"}.
 
 
 #### ScreenShare
