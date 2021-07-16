@@ -3,7 +3,7 @@ title: JetBrain
 tab: jetbrain
 ---
 
-#### Starting a Code With Me Session 
+#### Starting a Code With Me Session as the Host
 
 To start a Code With Me session, you should select the Code With Me tab on the Share Code popup modal, and select the project you would like to share. 
 
@@ -20,7 +20,7 @@ You will then be prompted to accept your teammate’s request to join.
 
 Once accepted, the session starts!
 
-#### Joining a Code With Me Session 
+#### Joining a Code With Me Session as a Guest
 
 Once the host starts codesharing via Code With Me and you have a JetBrains IDE already open you will see a prompt to switch to that IDE window.
 
