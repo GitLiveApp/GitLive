@@ -13,7 +13,7 @@ GitLive's video-calling feature allows you to call teammates straight from your 
 
  Next to a teammate's name, you will find a phone icon allowing you to place a call.
 
-![Call Teammate](/uploads/vscode-call-teammate.jpeg "Call Teammate"){:class="screenshot"}
+![Call Teammate](/uploads/vscode-call-teammate.png "Call Teammate"){:class="screenshot"}
 
 You can also call any teammate through the command palette. First, select “Call a Teammate” and you will have a dropdown list of all of your collaborators on the project.
 
