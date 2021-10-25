@@ -13,23 +13,23 @@ GitLive's code-sharing feature allows you to pair program with one click and wor
 
  Next to a teammate's name, you will find the codesharing icon, allowing you to start a session.
 
-![Call Teammate](/uploads/vscode-call-teammate.jpeg "Call Teammate"){:class="screenshot"}
+![Call Teammate](/uploads/vscode-codeshare-teammate.png "Call Teammate"){:class="screenshot"}
 
 You can also codeshare with any teammate through the command palette. First, select Codeshare with a Teammate” and you will have a dropdown list of all of your collaborators on the project.
 
-![Call Teammate Command Pallete](/uploads/vscode-call-teammate-command-pallete.jpg "Call Teammate Command Pallete"){:class="screenshot"}
+![Call Teammate Command Pallete](/uploads/vscode-codeshare-command-pallette.png "Call Teammate Command Pallete"){:class="screenshot"}
 
 #### Step 2
 
  You will then get a pop-up notification that you have sent the request to codeshare and are waiting for your teammate to accept it. The request gets cancelled automatically after 15 seconds.
 
-![Caller Popup](/uploads/video-calling-caller-popup.jpg "Video Calling Popup"){:class="screenshot"}
+![Caller Popup](/uploads/vscode-codeshare-caller-popup.png "Video Calling Popup"){:class="screenshot"}
 
 #### Step 3
 
 The teammate you are looking to codeshare with will then get a pop-up notification.
 
-![Receiver Popup](/uploads/vscode-video-calling-receiver-popup.jpg "Receiver Popup"){:class="screenshot"}
+![Receiver Popup](/uploads/vscode-codeshare-receiver-popup.png "Receiver Popup"){:class="screenshot"}
 
 #### Step 4
 

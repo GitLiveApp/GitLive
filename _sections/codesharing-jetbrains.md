@@ -5,13 +5,12 @@ tab: jetbrain
 
 ### Overview
 
-GitLive's video-calling feature allows you to call teammates straight from your IDE and work together on files like you would on a Google Docs collaboration. This feature will undoubtedly boost your productivity when you want to fix code issues with a teammate.
-
+GitLive's code-sharing feature allows you to pair program with one click and work together on files like you would on a Google Docs collaboration. This feature will undoubtedly boost your productivity when you want to fix code issues with a teammate.
 
 ### Instructions
 #### Step 1
 
- Next to a teammate's name, you will find a phone icon allowing you to place a call.
+ Next to a teammate's name, you will find the codesharing icon, allowing you to start a session.
 
 ![Call Teammate](/uploads/jetbrains-call-teammate.jpeg "Call Teammate"){:class="screenshot"}
 
