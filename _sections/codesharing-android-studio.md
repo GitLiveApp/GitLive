@@ -13,23 +13,23 @@ GitLive's code-sharing feature allows you to pair program with one click and wor
 
  Next to a teammate's name, you will find the codesharing icon, allowing you to start a session.
 
-![Call Teammate](/uploads/vscode-codeshare-teammate.png "Call Teammate"){:class="screenshot"}
+![Call Teammate](/uploads/android-studio-codeshare-teammate.png "Call Teammate"){:class="screenshot"}
 
 You can also codeshare with any teammate through the command palette. First, select Codeshare with a Teammate” and you will have a dropdown list of all of your collaborators on the project.
 
-![Call Teammate Command Pallete](/uploads/vscode-codeshare-command-pallette.png "Call Teammate Command Pallete"){:class="screenshot"}
+![Call Teammate Command Pallete](/uploads/android-studio-codeshare-search-everywhere.png "Call Teammate Command Pallete"){:class="screenshot"}
 
 #### Step 2
 
  You will then get a pop-up notification that you have sent the request to codeshare and are waiting for your teammate to accept it. The request gets cancelled automatically after 15 seconds.
 
-![Caller Popup](/uploads/vscode-codeshare-caller-popup.png "Video Calling Popup"){:class="screenshot"}
+![Caller Popup](/uploads/android-studio-codeshare-caller-popup.png "Video Calling Popup"){:class="screenshot"}
 
 #### Step 3
 
 The teammate you are looking to codeshare with will then get a pop-up notification.
 
-![Receiver Popup](/uploads/vscode-codeshare-receiver-popup.png "Receiver Popup"){:class="screenshot"}
+![Receiver Popup](/uploads/android-studio-codeshare-receiver-popup.png "Receiver Popup"){:class="screenshot"}
 
 #### Step 4
 
@@ -39,10 +39,11 @@ Once they answer, the codesharing session will begin. This means that any file t
 
 By default, you will automatically follow each other's cursors when scrolling or switching files. You can disable following from within the IDE to work independently.
 
-![Follow Cursor](/uploads/vscode-call-follow-cursor.jpeg "Follow Cursor"){:class="screenshot"}
+![Follow Cursor](/uploads/android-studio-call-follow-cursor.jpeg  "Follow Cursor"){:class="screenshot"}
 
-If you have Live Share installed, you can choose to use that to collaborate, instead of GitLive's proprietary code sharing solution. You can find more information about using Live Share [here](/docs/supportforlivesharecodewithme/){:class="internal-link"}. 
+You can choose to use JetBrains Code With Me to collaborate, rather than GitLive's proprietary code sharing solution. You can find more information about using Code With Me [here](/docs/supportforlivesharecodewithme/){:class="internal-link"}.
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/videocalling-android-studio.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/videocalling-jetbrains.md){:class="uk-button uk-button-success"}
+
 
