@@ -105,7 +105,7 @@ In addition to the green (online) or orange (away) dot beside a user’s avatar 
 
 #### Ending the Call
 
-Once the call has been ended, a message will appear notifying both participants. At this point, you can close the tab in your browser and return to your IDE.
+Once the call has ended, a message will appear notifying both participants. At this point, you can close the tab in your browser and return to your IDE.
 
 ![End the Call](/uploads/video-call-ended.jpg "End the Call"){:class="screenshot"}
 
