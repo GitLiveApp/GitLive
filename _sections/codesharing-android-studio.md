@@ -44,6 +44,6 @@ By default, you will automatically follow each other's cursors when scrolling or
 You can choose to use JetBrains Code With Me to collaborate, rather than GitLive's proprietary code sharing solution. You can find more information about using Code With Me [here](/docs/supportforlivesharecodewithme/){:class="internal-link"}.
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/videocalling-jetbrains.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/codesharing-android-studio.md){:class="uk-button uk-button-success"}
 
 

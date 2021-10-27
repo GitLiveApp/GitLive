@@ -44,5 +44,5 @@ By default, you will automatically follow each other's cursors when scrolling or
 If you have Live Share installed, you can choose to use that to collaborate, instead of GitLive's proprietary code sharing solution. You can find more information about using Live Share [here](/docs/supportforlivesharecodewithme/){:class="internal-link"}. 
 
 
-[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/videocalling-vscode.md){:class="uk-button uk-button-success"}
+[Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/codesharing-vscode.md){:class="uk-button uk-button-success"}
 
