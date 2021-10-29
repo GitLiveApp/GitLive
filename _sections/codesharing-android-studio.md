@@ -15,7 +15,7 @@ GitLive's code-sharing feature allows you to pair program with one click and wor
 
 ![Call Teammate](/uploads/android-studio-codeshare-teammate.png "Call Teammate"){:class="screenshot"}
 
-You can also codeshare with any teammate through the command palette. First, select Codeshare with a Teammate” and you will have a dropdown list of all of your collaborators on the project.
+You can also codeshare with any teammate through the Search Everywhere menu. First, select Codeshare with a Teammate” and you will have a dropdown list of all of your collaborators on the project.
 
 ![Call Teammate Command Pallete](/uploads/android-studio-codeshare-search-everywhere.png "Call Teammate Command Pallete"){:class="screenshot"}
 
