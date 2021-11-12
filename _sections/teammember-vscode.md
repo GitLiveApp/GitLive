@@ -25,7 +25,7 @@ In this quick guide you will learn how to authenticate GitLive in VS Code as a t
 
 * Return to Visual Studio Code. If the admin of the repository has followed the guidelines in the [setting up as an admin section](/docs/admin){:class="internal-link"}, your team should be now visible. If they have not done this yet, direct them to the [setting up as an admin section](/docs/admin){:class="internal-link"}.
 
-![Confirm installation](/uploads/vscode-installed.jpg  "Confirm installation"){:class="screenshot"}
+![Confirm installation](/uploads/vscode-installed.png  "Confirm installation"){:class="screenshot"}
 
 
 [Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/teammember-vscode.md){:class="uk-button uk-button-success"}
