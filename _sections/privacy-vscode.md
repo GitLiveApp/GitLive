@@ -50,10 +50,10 @@ In the screenshots below **teamhubuser** is initially online, shown by the white
     <tbody>
         <tr>
             <td>
-              <img class="screenshot" src="/uploads/vscode-privacy-normal.jpeg">
+              <img class="screenshot" src="/uploads/vscode-privacy-normal.png">
             </td>
             <td>
-              <img class="screenshot" src="/uploads/vscode-privacy-offline.jpeg">
+              <img class="screenshot" src="/uploads/vscode-privacy-offline.png">
             </td>
         </tr>
     </tbody>
@@ -68,10 +68,10 @@ On the left, the activity graph for  **SuDa2103** is visible and shows that he's
     <tbody>
         <tr>
             <td>
-              <img class="screenshot" src="/uploads/jetbrains-privacy-normal.jpeg">
+              <img class="screenshot" src="/uploads/jetbrains-privacy-normal.png">
             </td>
             <td>
-              <img class="screenshot" src="/uploads/jetbrains-privacy-hide-activity.jpeg">
+              <img class="screenshot" src="/uploads/jetbrains-privacy-hide-activity-graph.png">
             </td>
         </tr>
     </tbody>
@@ -85,10 +85,10 @@ On the left, GitLive shows that  **teamhubuser** has made some changes to the **
     <tbody>
         <tr>
             <td>
-              <img class="screenshot" src="/uploads/vscode-working-copy-before.jpeg">
+              <img class="screenshot" src="/uploads/vscode-working-copy-before.png">
             </td>
             <td>
-              <img class="screenshot" src="/uploads/vscode-working-copy-hide.jpeg">
+              <img class="screenshot" src="/uploads/vscode-working-copy-hide.png">
             </td>
         </tr>
     </tbody>
