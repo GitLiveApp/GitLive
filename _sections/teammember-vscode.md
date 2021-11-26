@@ -29,3 +29,6 @@ In this quick guide you will learn how to authenticate GitLive in VS Code as a t
 
 
 [Suggest an Edit to this Page](https://github.com/GitLiveApp/GitLive/edit/master/_sections/teammember-vscode.md){:class="uk-button uk-button-success"}
+
+
+
