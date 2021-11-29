@@ -38,7 +38,7 @@ As an administrator, you are required to install the GitLive app on the organiza
 
 * Once you have installed the GitLive app on your repository hosting service, you will see your team in the GitLive window. If they haven't installed GitLive yet, their names will be greyed out.
 
-![Confirm installation](/uploads/vscode-installed.jpg  "Confirm installation"){:class="screenshot"}
+![Confirm installation](/uploads/vscode-installed.png  "Confirm installation"){:class="screenshot"}
 
 
 ### You're all set!

@@ -9,7 +9,7 @@ GitLive integrates with Jira, GitHub Issues, Bitbucket Issues, Azure DevOps Work
 
 To connect an issue tracker to your GitLive organisation, follow the steps as shown in the [as an admin](/docs/admin){:class="internal-link"} section.
 
-![View Issues Others are Working on](/uploads/vscode-issue-tracker-visibility.jpg "View Issues Others are Working on"){:class="screenshot"}
+![View Issues Others are Working on](/uploads/vscode-issue-tracker-visibility.png "View Issues Others are Working on"){:class="screenshot"}
 
 
 ### Select an Issue
